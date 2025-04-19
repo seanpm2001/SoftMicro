@@ -2,10 +2,10 @@
 //// SoftMicro_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SoftMicro project repositories by @seanpm2001
-//// As of 2025, Thursday, April 17th
+//// As of 2025, Friday, April 18th
 
 //// ----------------------------------------------------- \\\\
-//// SoftMicro Project (14)
+//// SoftMicro Project (22)
 //// ----------------------------------------------------- \\\\
 
 //// SoftMicro Core (1)
@@ -46,9 +46,29 @@ https://github.com/seanpm2001/SoftMicro_Drapes_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_1.x
 https://github.com/seanpm2001/SoftMicro_Drapes_1.x_Docs
 
+//// SoftMicro Drapes 2.x (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_2.x
+https://github.com/seanpm2001/SoftMicro_Drapes_2.x_Docs
+
+//// SoftMicro Drapes 2.1.x (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_2.1.x
+https://github.com/seanpm2001/SoftMicro_Drapes_2.1.x_Docs
+
+//// SoftMicro Drapes 3.x (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_3.x
+https://github.com/seanpm2001/SoftMicro_Drapes_3.x_Docs
+
+//// SoftMicro Drapes 3.1.x (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_3.1.x
+https://github.com/seanpm2001/SoftMicro_Drapes_3.1.x_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (SoftMicro): 14
-//// 1+1+2+2+2+2+2+2=14
+//// Repo count (SoftMicro): 22
+//// 1+1+2+2+2+2+2+2+2+2+2+2=22
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -60,15 +80,15 @@ https://github.com/seanpm2001/SoftMicro_Drapes_1.x_Docs
 //// Repo count (See also): 0
 //// 0+0=0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 14
-//// 14+0=14
+//// Total repo count: 22
+//// 22+0=22
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 2 (2025, Thursday, April 17th at 01:17 pm PST)
-//// Line count (including blank lines and compiler line): 75
+//// File version: 3 (2025, Friday, April 18th at 06:16 pm PST)
+//// Line count (including blank lines and compiler line): 95
 //// ----------------------------------------------------- \\\\
 
 //// End of file
