@@ -41,9 +41,33 @@ A family of parody/spoof operating systems that mimic the Windows family of oper
 
 #### Drapes 1.x
 
-> [:octocat: `Drapes`](https://github.com/seanpm2001/SoftMicro_Drapes_1.x/)
+> [:octocat: `Drapes 1.x`](https://github.com/seanpm2001/SoftMicro_Drapes_1.x/)
 
 A parody of Windows 1.x (Windows 1.0, Windows 1.01, Windows 1.02, Windows 1.03, and Windows 1.04) part of the Drapes spoof operating system family.
+
+#### Drapes 2.x
+
+> [:octocat: `Drapes 2.x`](https://github.com/seanpm2001/SoftMicro_Drapes_2.x/)
+
+A parody of Windows 2.x (Windows 2.0, Windows 2.01, Windows 2.02, Windows 2.03, Windows 2.04, Windows 2.05, and Windows 2.06) part of the Drapes spoof operating system family.
+
+#### Drapes 2.1.x
+
+> [:octocat: `Drapes 2.1.x`](https://github.com/seanpm2001/SoftMicro_Drapes_2.1.x/)
+
+A parody of Windows 2.1.x (Windows 2.1, and Windows 2.11) part of the Drapes spoof operating system family.
+
+#### Drapes 3.x
+
+> [:octocat: `Drapes 3.x`](https://github.com/seanpm2001/SoftMicro_Drapes_3.x/)
+
+A parody of Windows 3.x (Windows 3.0, Windows 3.01, and Windows 3.02) part of the Drapes spoof operating system family.
+
+#### Drapes 3.1.x
+
+> [:octocat: `Drapes 3.1.x`](https://github.com/seanpm2001/SoftMicro_Drapes_3.1.x/)
+
+A parody of Windows 3.1.x (Windows 3.1, and Windows 3.11) part of the Drapes spoof operating system family.
 
 ### SoftMicro Scratch
 
@@ -79,6 +103,6 @@ SoftMicro is a non-profit parody. It is not associated/affiliated with Microsoft
 
 # File info
 
-**File version:** `2 (2025, Thursday, April 17th at 01:18 pm PST)`
+**File version:** `3 (2025, Friday, April 18th at 06:17 pm PST)`
 
 ***
