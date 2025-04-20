@@ -69,6 +69,36 @@ A parody of Windows 3.x (Windows 3.0, Windows 3.01, and Windows 3.02) part of th
 
 A parody of Windows 3.1.x (Windows 3.1, and Windows 3.11) part of the Drapes spoof operating system family.
 
+#### Drapes 3.2.x
+
+> [:octocat: `Drapes 3.2.x`](https://github.com/seanpm2001/SoftMicro_Drapes_3.2.x/)
+
+A parody of Windows 3.2.x (Windows 3.2) which is solely in Chinese. It is part of the Drapes spoof operating system family.
+
+#### Drapes 3.5.x
+
+> [:octocat: `Drapes 3.5.x`](https://github.com/seanpm2001/SoftMicro_Drapes_3.5.x/)
+
+A parody of Windows 3.5.x (Windows 3.5, and Windows 3.51) part of the Drapes spoof operating system family.
+
+#### Drapes 4.x
+
+> [:octocat: `Drapes 4.x`](https://github.com/seanpm2001/SoftMicro_Drapes_4.x/)
+
+A parody of Windows 4.x (Windows NT 4.0) part of the Drapes spoof operating system family.
+
+#### Drapes 5.x
+
+> [:octocat: `Drapes 5.x`](https://github.com/seanpm2001/SoftMicro_Drapes_5.x/)
+
+A parody of Windows 5.x (Windows NT 5.0) part of the Drapes spoof operating system family.
+
+#### Drapes 95
+
+> [:octocat: `Drapes 5.x`](https://github.com/seanpm2001/SoftMicro_Drapes_5.x/)
+
+A parody of Windows 95. Part of the Drapes spoof operating system family.
+
 ### SoftMicro Scratch
 
 > [:octocat: `SoftMicro Scratch`](https://github.com/seanpm2001/SoftMicro-Scratch/)
@@ -103,6 +133,81 @@ SoftMicro is a non-profit parody. It is not associated/affiliated with Microsoft
 
 # File info
 
-**File version:** `3 (2025, Friday, April 18th at 06:17 pm PST)`
+**File version:** `4 (2025, Saturday, April 19th at 06:00 pm PST)`
+
+***
+
+# File history
+
+## Version 1 (2025, Wednesday, April 16th at 09:41 pm PST)
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the first version of the file._
+
+> Changes:
+
+- [x] Started the file
+- [x] Added the title section
+- [x] Added the REPOLIST section
+- [x] Added the Products section
+- - [x] Added the SM-DOS subsection
+- - [x] Added the Drapes subsection
+- - [x] Added the SoftMicro Scratch subsection
+- [x] Added the Etymology section
+- [x] Added the Usage of the Code::Blocks logo section
+- [x] Added the Legal Disclaimer section
+- [x] Added the File info section
+- [ ] No other changes in version 1
+
+## Version 2 (2025, Thursday, April 17th at 01:18 pm PST)
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the second version of the file, with slight changes._
+
+> Changes:
+
+- [x] Updated the Products section
+- - [x] Added the SM-DOG subsection
+- - [x] Added the Drapes 1.x subsection
+- - [x] Added the SoftMicro Network Broadcast Channel (SMNBC) subsection
+- [x] Updated the File info section
+- [ ] No other changes in version 2
+
+## Version 3 (2025, Friday, April 18th at 06:17 pm PST)
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the third version of the file, with slight changes._
+
+> Changes
+
+- [x] Updated the Products section
+- - [x] Added the Drapes 2.x subsection
+- - [x] Added the Drapes 2.1.x subsection
+- - [x] Added the Drapes 3.x subsection
+- - [x] Added the Drapes 3.1.x subsection
+- [x] Updated the File info section
+- [ ] No other changes in version 3
+
+## Version 4 (2025, Saturday, April 19th at 06:00 pm PST)
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the fourth version of the file, with some notable changes._
+
+> Changes
+
+- [x] Updated the Products section
+- - [x] Added the Drapes 3.2.x subsection
+- - [x] Added the Drapes 3.5.x subsection
+- - [x] Added the Drapes 4.x subsection
+- - [x] Added the Drapes 5.x subsection
+- - [x] Added the Drapes 95 subsection
+- [x] Updated the File info section
+- [x] Added the File history section
+- - [x] Added entries for versions 1, 2, 3, and 4
+- [ ] No other changes in version 4
 
 ***
