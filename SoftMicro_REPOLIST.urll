@@ -2,10 +2,10 @@
 //// SoftMicro_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SoftMicro project repositories by @seanpm2001
-//// As of 2025, Sunday, April 20th
+//// As of 2025, Monday, April 21st
 
 //// ----------------------------------------------------- \\\\
-//// SoftMicro Project (40)
+//// SoftMicro Project (48)
 //// ----------------------------------------------------- \\\\
 
 //// SoftMicro Core (1)
@@ -111,9 +111,29 @@ https://github.com/seanpm2001/SoftMicro_Drapes_2000_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_3000
 https://github.com/seanpm2001/SoftMicro_Drapes_3000_Docs
 
+//// SoftMicro Drapes XD (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_XD
+https://github.com/seanpm2001/SoftMicro_Drapes_XD_Docs
+
+//// SoftMicro Drapes Veeestah (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_Veeestah
+https://github.com/seanpm2001/SoftMicro_Drapes_Veeestah_Docs
+
+//// SoftMicro Drapes CE-ME-NT (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_CE-ME-NT
+https://github.com/seanpm2001/SoftMicro_Drapes_CE-ME-NT_Docs
+
+//// SoftMicro Drapes Server 2003 (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (SoftMicro): 40
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=40
+//// Repo count (SoftMicro): 48
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=48
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -125,15 +145,15 @@ https://github.com/seanpm2001/SoftMicro_Drapes_3000_Docs
 //// Repo count (See also): 0
 //// 0+0=0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 40
-//// 40+0=40
+//// Total repo count: 48
+//// 48+0=48
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 5 (2025, Sunday, April 20th at 05:53 pm PST)
-//// Line count (including blank lines and compiler line): 140
+//// File version: 6 (2025, Monday, April 21st at 06:10 pm PST)
+//// Line count (including blank lines and compiler line): 160
 //// ----------------------------------------------------- \\\\
 
 //// End of file
