@@ -1,77 +1,127 @@
 
 ***
 
-<details open><summary><p>Click/tap here to expand/collapse the entire README file</p></summary>
+<details open><summary><p><b>Click/tap here to expand/collapse the entire README file</b></p></summary>
 
 # SoftMicro
 
+<details open><summary><p><b>Click/tap here to expand/collapse the title section</b></p></summary>
+
 `🟥️🟨️🟩️🟦️💾️ The official source repository for SoftMicro, a parody of Microsoft.`
+
+</details> <!-- End of Title section !-->
 
 ***
 
 ## Repolist
 
+<details open><summary><p><b>Click/tap here to expand/collapse the RepoList section</b></p></summary>
+
 <img src="SoftMicro_PlaceholderLogo_CodeBlocks.png" alt="SoftMicro placeholder logo/Code::Blocks logo" width="128" height="128" title="Soft Micro">
 
 - [View the REPOLIST file for this project](/SoftMicro_REPOLIST.urll)
+
+</details> <!-- End of RepoList section !-->
 
 ***
 
 ## Products
 
-- SM-DOS
+<details open><summary><p><b>Click/tap here to expand/collapse the products section</b></p></summary>
+
+- SM-DOS & SM-DOG
 - Drapes
 - More coming soon
 
+---
+
 ### SM-DOS
+
+<details open><summary><p><b>Click/tap here to expand/collapse the SM-DOS section</b></p></summary>
 
 > [:octocat: `SM-DOS`](https://github.com/seanpm2001/SoftMicro-DOS/)
 
 A parody of MS-DOS (MicroSoft-Disk Operating System)
 
+</details> <!-- End of SM-DOS section !-->
+
+---
+
 ### SM-DOG
+
+<details open><summary><p><b>Click/tap here to expand/collapse the SM-DOG section</b></p></summary>
 
 > [:octocat: `SM-DOG`](https://github.com/seanpm2001/SoftMicro_SM-DOG/)
 
 A parody of MS-DOS (MicroSoft-Disk Operating System) although this is a specialized, more loose version.
 
+</details> <!-- End of SM-DOG section !-->
+
+---
+
 ### Drapes
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes section</b></p></summary>
 
 > [:octocat: `Drapes`](https://github.com/seanpm2001/SoftMicro_Drapes/)
 
 A family of parody/spoof operating systems that mimic the Windows family of operating systems. Originally was going to be called Losedows (in reference to the Free Software Foundations name for it, see [GNU: `why call it the Swindle`](https://www.gnu.org/philosophy/why-call-it-the-swindle.html)) but I decided it would be too unprofessional to name the project that, and that a better name was needed. Doors was a second option, but it also seemed too generic. I decided to go with Drapes, as it is another word for curtain, which covers a window.
 
+---
+
 #### Drapes 1.x
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 1.x section</b></p></summary>
 
 > [:octocat: `Drapes 1.x`](https://github.com/seanpm2001/SoftMicro_Drapes_1.x/)
 
 A parody of Windows 1.x (Windows 1.0, Windows 1.01, Windows 1.02, Windows 1.03, and Windows 1.04) part of the Drapes spoof operating system family.
 
+</details> <!-- End of Drapes 1.x section !-->
+
 #### Drapes 2.x
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 2.x section</b></p></summary>
 
 > [:octocat: `Drapes 2.x`](https://github.com/seanpm2001/SoftMicro_Drapes_2.x/)
 
 A parody of Windows 2.x (Windows 2.0, Windows 2.01, Windows 2.02, Windows 2.03, Windows 2.04, Windows 2.05, and Windows 2.06) part of the Drapes spoof operating system family.
 
+</details> <!-- End of Drapes 2.x section !-->
+
 #### Drapes 2.1.x
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 2.1.x section</b></p></summary>
 
 > [:octocat: `Drapes 2.1.x`](https://github.com/seanpm2001/SoftMicro_Drapes_2.1.x/)
 
 A parody of Windows 2.1.x (Windows 2.1, and Windows 2.11) part of the Drapes spoof operating system family.
 
+</details> <!-- End of Drapes 2.1.x section !-->
+
 #### Drapes 3.x
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 3.x section</b></p></summary>
 
 > [:octocat: `Drapes 3.x`](https://github.com/seanpm2001/SoftMicro_Drapes_3.x/)
 
 A parody of Windows 3.x (Windows 3.0, Windows 3.01, and Windows 3.02) part of the Drapes spoof operating system family.
 
+</details> <!-- End of Drapes 3.x section !-->
+
 #### Drapes 3.1.x
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 3.1.x section</b></p></summary>
 
 > [:octocat: `Drapes 3.1.x`](https://github.com/seanpm2001/SoftMicro_Drapes_3.1.x/)
 
 A parody of Windows 3.1.x (Windows 3.1, and Windows 3.11) part of the Drapes spoof operating system family.
 
+</details> <!-- End of Drapes 3.1.x section !-->
+
 #### Drapes 3.2
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 3.2 section</b></p></summary>
 
 > [:octocat: `Drapes 3.2`](https://github.com/seanpm2001/SoftMicro_Drapes_3.2/)
 
@@ -79,35 +129,61 @@ A parody of Windows 3.2.x (Windows 3.2) which is solely in Chinese. It is part o
 
 Windows 3.2 was a Chinese localization of Windows 3.1. This spoof will contain many Chinese references.
 
+</details> <!-- End of Drapes 3.2 section !-->
+
 #### Drapes 3.5.x
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 3.5.x section</b></p></summary>
 
 > [:octocat: `Drapes 3.5.x`](https://github.com/seanpm2001/SoftMicro_Drapes_3.5.x/)
 
 A parody of Windows 3.5.x (Windows 3.5, and Windows 3.51) part of the Drapes spoof operating system family.
 
+</details> <!-- End of Drapes 3.5.x section !-->
+
 #### Drapes 4.x
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 4.x section</b></p></summary>
 
 > [:octocat: `Drapes 4.x`](https://github.com/seanpm2001/SoftMicro_Drapes_4.x/)
 
 A parody of Windows 4.x (Windows NT 4.0) part of the Drapes spoof operating system family.
 
+</details> <!-- End of Drapes 4.x section !-->
+
 #### Drapes 5.x
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 5.x section</b></p></summary>
 
 > [:octocat: `Drapes 5.x`](https://github.com/seanpm2001/SoftMicro_Drapes_5.x/)
 
 A parody of Windows 5.x (Windows NT 5.0) part of the Drapes spoof operating system family.
 
+</details> <!-- End of Drapes 5.x section !-->
+
 #### Drapes 95
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 95 section</b></p></summary>
 
 > [:octocat: `Drapes 95`](https://github.com/seanpm2001/SoftMicro_Drapes_95/)
 
 A parody of Windows 95. Part of the Drapes spoof operating system family.
 
+Codename: D95
+
+</details> <!-- End of Drapes 95 section !-->
+
 #### Drapes 98
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 98 section</b></p></summary>
 
 > [:octocat: `Drapes 98`](https://github.com/seanpm2001/SoftMicro_Drapes_98/)
 
 A parody of Windows 98. Part of the Drapes spoof operating system family.
+
+Codename: D98
+
+</details> <!-- End of Drapes 98 section !-->
 
 <!-- TODO
 Keep the order: 98 -> ME -> 2000 -> 3000 -> XD. It is a correction of what the order should have been for: 98 -> 2000 -> ME -> XP
@@ -115,19 +191,29 @@ Keep the order: 98 -> ME -> 2000 -> 3000 -> XD. It is a correction of what the o
 
 #### Drapes ME
 
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes ME section</b></p></summary>
+
 > [:octocat: `Drapes ME`](https://github.com/seanpm2001/SoftMicro_Drapes_ME/)
 
 A parody of Windows ME. Part of the Drapes spoof operating system family.
 
 Drapes ME (Mistake Edition) will be similar to Windows ME, but will be far less stable, and will be the most unstable release of Drapes.
 
+</details> <!-- End of Drapes ME section !-->
+
 #### Drapes 2000
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 2000 section</b></p></summary>
 
 > [:octocat: `Drapes 2000`](https://github.com/seanpm2001/SoftMicro_Drapes_2000/)
 
 A parody of Windows 2000. Part of the Drapes spoof operating system family.
 
+</details> <!-- End of Drapes 2000 section !-->
+
 #### Drapes 3000
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 3000 section</b></p></summary>
 
 > [:octocat: `Drapes 3000`](https://github.com/seanpm2001/SoftMicro_Drapes_3000/)
 
@@ -135,35 +221,121 @@ A parody of Windows 2000. Part of the Drapes spoof operating system family.
 
 This is a specialized parody of Windows 2000. The main difference is that it will feature extensive references to more things that were considered futuristic in 1999 (thing Futurama, Sim City 3000, and the likes)
 
+</details> <!-- End of Drapes 3000 section !-->
+
+#### Drapes XD
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes XD section</b></p></summary>
+
+> [:octocat: `Drapes XD`](https://github.com/seanpm2001/SoftMicro_Drapes_XD/)
+
+A parody of Windows XP. Part of the Drapes spoof operating system family.
+
+A specialized BOB Blob will be present (which was rumoured to be part of Windows XP, to bloat the disk image size, and prevent "piracy")
+
+</details> <!-- End of Drapes XD section !-->
+
+#### Drapes Veeestah
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Veeestah section</b></p></summary>
+
+> [:octocat: `Drapes Veeestah`](https://github.com/seanpm2001/SoftMicro_Drapes_Veeestah/)
+
+A parody of Windows Vista. Part of the Drapes spoof operating system family.
+
+It is spelled with 3 e's, not 2 or 1. The number of e's do not correlate to any acronym. The system will be relatively unstable, but not as much as Drapes ME. In the final variant, a red screen of death will be present.
+
+</details> <!-- End of Drapes Veeestah section !-->
+
+#### Drapes CE-ME-NT
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes CE-ME-NT section</b></p></summary>
+
+> [:octocat: `Drapes CE-ME-NT`](https://github.com/seanpm2001/SoftMicro_Drapes_CE-ME-NT/)
+
+A parody of Windows CE, Windows ME, and Windows NT. Part of the Drapes spoof operating system family.
+
+This is a custom variant not related to a specific Windows version that is based on the Windows CEMENT joke (where Windows CE, Windows ME, and Windows NT are combined into one release) it will be a combination of Drapes CE, Drapes ME, and Drapes XD, and will be slightly more stable than Drapes ME.
+
+</details> <!-- End of Drapes CE-ME-NT section !-->
+
+#### Drapes Server 2003
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2003 section</b></p></summary>
+
+> [:octocat: `Drapes Server 2003`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003/)
+
+A parody of Windows Server 2003. Part of the Drapes spoof operating system family.
+
+The first major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2003.
+
+</details> <!-- End of Drapes Server 2003 section !-->
+
+---
+
+End of Drapes section. Time to close the drapes.
+
+</details> <!-- End of Drapes section !-->
+
+---
+
 ### SoftMicro Scratch
+
+<details open><summary><p><b>Click/tap here to expand/collapse the SoftMicro Scratch section</b></p></summary>
 
 > [:octocat: `SoftMicro Scratch`](https://github.com/seanpm2001/SoftMicro-Scratch/)
 
 A place where former SoftMicro Scratch 2.0 projects are to be housed, once they can all be collected and put into one place, and once GitHub raises the file size limit from 25 MiB to 50 MiB.
 
+</details> <!-- End of SoftMicro Scratch section !-->
+
+---
+
 ### SoftMicro Network Broadcast Channel (SMNBC)
+
+<details open><summary><p><b>Click/tap here to expand/collapse the SMNBC section</b></p></summary>
 
 > [:octocat: `SoftMicro Network Broadcast Channel`](https://github.com/seanpm2001/SoftMicroNetworkBroadcastChannel-SMNBC/)
 
 Inherited from older SoftMicro projects, this is a parody of MSNBC.
 
+</details> <!-- End of SMNBC section !-->
+
+---
+
+_End of products section_
+
+</details> <!-- End of Products section !-->
+
 ***
 
 ## Etymology
 
+<details open><summary><p><b>Click/tap here to expand/collapse the Etymology section</b></p></summary>
+
 SoftMicro is the reverse of MicroSoft. The name was inspired by a YouTube video from CS188 regarding Steve Ballmers and Windows 1.0, where the audio was modified to make Steve Ballmers say "Soft Micro" it was during a time when I was fixated on Windows, due to it being the time in my life where I was experiencing nostalgia for the first time. The name was used on my former Scratch accounts, and their Windows spoof projects, until it began to be re-used here.
+
+</details> <!-- End of Etymology section !-->
 
 ***
 
 ## Usage of the Code::Blocks logo
 
+<details open><summary><p><b>Click/tap here to expand/collapse the Usage of the Code::Blocks Logo section</b></p></summary>
+
 The logo for the C/C++ IDE, known as Code::Blocks, is being used as a placeholder logo for SoftMicro, due to its resemblence of the Microsoft logo. I know what CodeBlocks is, and this is just temporary (once a new logo is commissioned, it will be replaced)
+
+</details> <!-- End of Usage of the Code::Blocks logo section !-->
 
 ***
 
 ## Legal disclaimer
 
+<details open><summary><p><b>Click/tap here to expand/collapse the Legal Disclaimer section</b></p></summary>
+
 SoftMicro is a non-profit parody. It is not associated/affiliated with Microsoft Corporation.
+
+</details> <!-- End of Legal Disclaimer section !-->
 
 ***
 
@@ -174,11 +346,11 @@ SoftMicro is a non-profit parody. It is not associated/affiliated with Microsoft
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `5 (2025, Sunday, April 20th at 05:54 pm PST)`
-- **Line count (including blank lines and compiler line):** `0,336`
-- **Word count:** `01,854`
-- **Character count (with spaces):** `011,689 characters`
-- **Character count (without spaces)** `009,878 characters`
+- **File version:** `6 (2025, Monday, April 21st at 06:13 pm PST)`
+- **Line count (including blank lines and compiler line):** `0,531`
+- **Word count:** `02,975`
+- **Character count (with spaces):** `018,664 characters`
+- **Character count (without spaces)** `15,886 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -309,6 +481,29 @@ History of this file.
 - [ ] No other changes in version 5
 
 </details> <!-- End of V5 !-->
+
+---
+
+<details open><summary><H2>Version 6 (2025, Monday, April 21st at 06:13 pm PST)</H2></summary>
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the sixth version of the file, with some small changes._
+
+> Changes
+
+- [x] Made the rest of the sections of the file into dropdown sections
+- [x] Updated the Products section
+- - [x] Added the Drapes XD subsection
+- - [x] Added the Drapes Veeestah subsection
+- - [x] Added the Drapes CE-ME-NT subsection
+- - [x] Added the Drapes Server 2003 subsection
+- [x] Updated the File info section
+- [x] Updated the File history section
+- - [x] Added an entry for version 6
+- [ ] No other changes in version 6
+
+</details> <!-- End of V6 !-->
 
 ---
 
