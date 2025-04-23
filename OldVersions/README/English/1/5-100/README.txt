@@ -199,6 +199,8 @@ A parody of Windows ME. Part of the Drapes spoof operating system family.
 
 Drapes ME (Mistake Edition) will be similar to Windows ME, but will be far less stable, and will be the most unstable release of Drapes.
 
+Aren't we all? See, Drapes ME is already letting its self-deprecating escape its compounds (everything it touches becomes a mistake)
+
 </details> <!-- End of Drapes ME section !-->
 
 #### Drapes 2000
@@ -232,6 +234,8 @@ This is a specialized parody of Windows 2000. The main difference is that it wil
 A parody of Windows XP. Part of the Drapes spoof operating system family.
 
 A specialized BOB Blob will be present (which was rumoured to be part of Windows XP, to bloat the disk image size, and prevent "piracy")
+
+TODO: Losedows XD: Something regarding the 'bush hid the facts' bug in WIndows XP (read about this online, it is a rather interesting bug/feature that was present between Windows 3.1 and Windows XP) basically, it was an encoding bug, where a certain string of bytes within Notepad would nullify a file (I will need to reference it myself to explain it here)
 
 </details> <!-- End of Drapes XD section !-->
 
@@ -270,6 +274,54 @@ A parody of Windows Server 2003. Part of the Drapes spoof operating system famil
 The first major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2003.
 
 </details> <!-- End of Drapes Server 2003 section !-->
+
+#### Drapes Server 2008
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2008 section</b></p></summary>
+
+> [:octocat: `Drapes Server 2008`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2008/)
+
+A parody of Windows Server 2008. Part of the Drapes spoof operating system family.
+
+The second major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2008.
+
+</details> <!-- End of Drapes Server 2008 Section !-->
+
+#### Drapes Server 2012
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2012 section</b></p></summary>
+
+> [:octocat: `Drapes Server 2012`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2012/)
+
+A parody of Windows Server 2012. Part of the Drapes spoof operating system family.
+
+The third major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2012.
+
+</details> <!-- End of Drapes Server 2012 Section !-->
+
+#### Drapes Server 2016
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2016 section</b></p></summary>
+
+> [:octocat: `Drapes Server 2016`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2016/)
+
+A parody of Windows Server 2016. Part of the Drapes spoof operating system family.
+
+The fourth major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2016.
+
+</details> <!-- End of Drapes Server 2012 Section !-->
+
+#### Drapes Server 2019
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2019 section</b></p></summary>
+
+> [:octocat: `Drapes Server 2019`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2019/)
+
+A parody of Windows Server 2019. Part of the Drapes spoof operating system family.
+
+The fifth major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2019.
+
+</details> <!-- End of Drapes Server 2019 Section !-->
 
 ---
 
@@ -333,9 +385,36 @@ The logo for the C/C++ IDE, known as Code::Blocks, is being used as a placeholde
 
 <details open><summary><p><b>Click/tap here to expand/collapse the Legal Disclaimer section</b></p></summary>
 
-SoftMicro is a non-profit parody. It is not associated/affiliated with Microsoft Corporation.
+SoftMicro is a non-profit collaborative parody. It is not associated/affiliated with Microsoft Corporation.
+
+If parody is not accepted: Fair Use
 
 </details> <!-- End of Legal Disclaimer section !-->
+
+***
+
+## About
+
+<details open><summary><p><b>Click/tap here to expand/collapse the About section</b></p></summary>
+
+SoftMicro is a collaborative parody of Microsoft
+
+I have had an interest in Windows parodies for a long time, and it is something I am rather experienced in, due to starting development of them in the early days of my computer programming experience (circa 2015) Microsoft developers are welcome, and encouraged to come develop here (if Microsoft allows them) The goal is to build a funny series of joke projects that people can enjoy. It is similar to Windows RG (Really Good edition) but with a lot more effort.
+
+</details> <!-- End of About section !-->
+
+***
+
+## Modes
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Modes section</b></p></summary>
+
+## Modes
+
+- Real mode - Written in C, acts similarly to an actual operating system
+- Parody mode - Written in an undetermined language, this is where the fun is
+
+</details> <!-- End of Modes section !-->
 
 ***
 
@@ -346,11 +425,11 @@ SoftMicro is a non-profit parody. It is not associated/affiliated with Microsoft
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `6 (2025, Monday, April 21st at 06:13 pm PST)`
-- **Line count (including blank lines and compiler line):** `0,531`
-- **Word count:** `02,975`
-- **Character count (with spaces):** `018,664 characters`
-- **Character count (without spaces)** `15,886 characters`
+- **File version:** `7 (2025, Tuesday, April 22nd at 05:25 pm PST)`
+- **Line count (including blank lines and compiler line):** `0,636`
+- **Word count:** `03,664`
+- **Character count (with spaces):** `023,093 characters`
+- **Character count (without spaces)** `19,624 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -504,6 +583,32 @@ History of this file.
 - [ ] No other changes in version 6
 
 </details> <!-- End of V6 !-->
+
+---
+
+<details open><summary><H2>Version 7 (2025, Tuesday, April 22nd at 05:25 pm PST)</H2></summary>
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the seventhy version of the file, with some notable changes._
+
+> Changes
+
+- [x] Updated the Legal Disclaimer section
+- [x] Added the About section
+- [x] Added the Modes section
+- [x] Updated the Products section
+- - [x] Updated the Drapes XD subsection
+- - [x] Added the Drapes Server 2008 subsection
+- - [x] Added the Drapes Server 2012 subsection
+- - [x] Added the Drapes Server 2016 subsection
+- - [x] Added the Drapes Server 2019 subsection
+- [x] Updated the File info section
+- [x] Updated the File history section
+- - [x] Added an entry for version 7
+- [ ] No other changes in version 7
+
+</details> <!-- End of V7 !-->
 
 ---
 
