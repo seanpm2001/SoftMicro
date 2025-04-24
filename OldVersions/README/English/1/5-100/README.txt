@@ -297,6 +297,8 @@ A parody of Windows Server 2012. Part of the Drapes spoof operating system famil
 
 The third major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2012.
 
+Maya Easter Egg: End of world in 2012. A code can be entered that adds an apocalyptic theme.
+
 </details> <!-- End of Drapes Server 2012 Section !-->
 
 #### Drapes Server 2016
@@ -322,6 +324,50 @@ A parody of Windows Server 2019. Part of the Drapes spoof operating system famil
 The fifth major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2019.
 
 </details> <!-- End of Drapes Server 2019 Section !-->
+
+#### Drapes Server 2022
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2022 section</b></p></summary>
+
+> [:octocat: `Drapes Server 2022`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2022/)
+
+A parody of Windows Server 2022. Part of the Drapes spoof operating system family.
+
+The sixth major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2022.
+
+</details> <!-- End of Drapes Server 2022 Section !-->
+
+#### Drapes Server 2025
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2025 section</b></p></summary>
+
+> [:octocat: `Drapes Server 2025`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2025/)
+
+A parody of Windows Server 2025. Part of the Drapes spoof operating system family.
+
+The seventh major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2025.
+
+</details> <!-- End of Drapes Server 2025 Section !-->
+
+#### Drapes 7.x
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 7.x section</b></p></summary>
+
+> [:octocat: `Drapes 7x`](https://github.com/seanpm2001/SoftMicro_Drapes_8x/)
+
+A parody of Windows 7. Part of the Drapes spoof operating system family.
+
+</details> <!-- End of Drapes 7.x Section !-->
+
+#### Drapes 8.x
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 8.x section</b></p></summary>
+
+> [:octocat: `Drapes 8x`](https://github.com/seanpm2001/SoftMicro_Drapes_8x/)
+
+A parody of Windows 8. Part of the Drapes spoof operating system family.
+
+</details> <!-- End of Drapes 8.x Section !-->
 
 ---
 
@@ -425,11 +471,12 @@ I have had an interest in Windows parodies for a long time, and it is something 
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `7 (2025, Tuesday, April 22nd at 05:25 pm PST)`
-- **Line count (including blank lines and compiler line):** `0,636`
-- **Word count:** `03,664`
-- **Character count (with spaces):** `023,093 characters`
-- **Character count (without spaces)** `19,624 characters`
+- **File version:** `8 (2025, Wednesday, April 23rd at 05:33 pm PST)`
+- **Line count (including blank lines and compiler line):** `0,706`
+- **Word count:** `04,058`
+- **Character count (with spaces):** `025,635 characters`
+- **Character count (without spaces)** `21,786 characters`
+- **File size (in bytes)** `21,666 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -590,7 +637,7 @@ History of this file.
 
 > This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note:** _This is the seventhy version of the file, with some notable changes._
+> **Note:** _This is the seventh version of the file, with some notable changes._
 
 > Changes
 
@@ -609,6 +656,29 @@ History of this file.
 - [ ] No other changes in version 7
 
 </details> <!-- End of V7 !-->
+
+---
+
+<details open><summary><H2>Version 8 (2025, Wednesday, April 23rd at 05:33 pm PST)</H2></summary>
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the eighth version of the file, with some small changes._
+
+> Changes
+
+- [x] Updated the Products section
+- - [x] Updated the Drapes Server 2012 subsection
+- - [x] Added the Drapes Server 2022 subsection
+- - [x] Added the Drapes Server 2025 subsection
+- - [x] Added the Drapes 7.x subsection
+- - [x] Added the Drapes 8.x subsection
+- [x] Updated the File info section
+- [x] Updated the File history section
+- - [x] Added an entry for version 8
+- [ ] No other changes in version 8
+
+</details> <!-- End of V8 !-->
 
 ---
 
