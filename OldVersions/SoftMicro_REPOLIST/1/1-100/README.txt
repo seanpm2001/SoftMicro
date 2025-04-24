@@ -2,10 +2,10 @@
 //// SoftMicro_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SoftMicro project repositories by @seanpm2001
-//// As of 2025, Tuesday, April 22nd
+//// As of 2025, Wednesday, April 23rd
 
 //// ----------------------------------------------------- \\\\
-//// SoftMicro Project (56)
+//// SoftMicro Project (64)
 //// ----------------------------------------------------- \\\\
 
 //// SoftMicro Core (1)
@@ -151,9 +151,29 @@ https://github.com/seanpm2001/SoftMicro_Drapes_Server_2016_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2019
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2019_Docs
 
+//// SoftMicro Drapes Server 2022 (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2022
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2022_Docs
+
+//// SoftMicro Drapes Server 2025 (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2025
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2025_Docs
+
+//// SoftMicro Drapes 7.x (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_7x
+https://github.com/seanpm2001/SoftMicro_Drapes_7x_Docs
+
+//// SoftMicro Drapes 8.x (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_8x
+https://github.com/seanpm2001/SoftMicro_Drapes_8x_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (SoftMicro): 56
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=56
+//// Repo count (SoftMicro): 64
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=64
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -172,8 +192,8 @@ https://github.com/seanpm2001/SoftMicro_Drapes_Server_2019_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 7 (2025, Tuesday, April 22nd at 05:24 pm PST)
-//// Line count (including blank lines and compiler line): 180
+//// File version: 8 (2025, Wednesday, April 23rd at 05:32 pm PST)
+//// Line count (including blank lines and compiler line): 200
 //// ----------------------------------------------------- \\\\
 
 //// End of file
