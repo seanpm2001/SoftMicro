@@ -357,6 +357,11 @@ The seventh major server variant of Drapes (besides Drapes 2000) it will contain
 
 A parody of Windows 7. Part of the Drapes spoof operating system family.
 
+FIX NEEDED
+
+- SoftMicro_Drapes_Server_7x -> SoftMicro_Drapes_7x
+- SoftMicro_Drapes_Server_7x_Docs -> SoftMicro_Drapes_7x_Docs
+
 </details> <!-- End of Drapes 7.x Section !-->
 
 #### Drapes 8.x
@@ -367,13 +372,78 @@ A parody of Windows 7. Part of the Drapes spoof operating system family.
 
 A parody of Windows 8. Part of the Drapes spoof operating system family.
 
+FIX NEEDED
+
+- SoftMicro_Drapes_Server_8x -> SoftMicro_Drapes_8x
+- SoftMicro_Drapes_Server_8x_Docs -> SoftMicro_Drapes_8x_Docs
+
 </details> <!-- End of Drapes 8.x Section !-->
+
+#### Drapes 9.x
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 9.x section</b></p></summary>
+
+> [:octocat: `Drapes 9x`](https://github.com/seanpm2001/SoftMicro_Drapes_9x/)
+
+A parody of Windows 8.1. Part of the Drapes spoof operating system family.
+
+Not to be confused with Drapes 9x (Drapes 95, Drapes 98, Drapes ME)
+
+Also known as 'the hidden one' as Microsoft didn't officially create Windows 9, they skipped from Windows 8/8.1 to Windows 10
+
+</details> <!-- End of Drapes 9.x Section !-->
+
+#### Drapes 10.x
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 10.x section</b></p></summary>
+
+> [:octocat: `Drapes 10x`](https://github.com/seanpm2001/SoftMicro_Drapes_10x/)
+
+A parody of Windows 10. Part of the Drapes spoof operating system family.
+
+Not to be confused with Drapes 1.x
+
+</details> <!-- End of Drapes 10.x Section !-->
+
+#### Drapes 11.x
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 11.x section</b></p></summary>
+
+> [:octocat: `Drapes 11x`](https://github.com/seanpm2001/SoftMicro_Drapes_11x/)
+
+A parody of Windows 11. Part of the Drapes spoof operating system family.
+
+Not to be confused with Drapes 1.x (Drapes 1.01)
+
+</details> <!-- End of Drapes 11.x Section !-->
+
+#### Drapes 12.x
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 12.x section</b></p></summary>
+
+> [:octocat: `Drapes 12x`](https://github.com/seanpm2001/SoftMicro_Drapes_12x/)
+
+A parody of Windows 12, placeholder for the future, as Windows 12 does not exist yet. Part of the Drapes spoof operating system family.
+
+</details> <!-- End of Drapes 12.x Section !-->
 
 ---
 
 End of Drapes section. Time to close the drapes.
 
 </details> <!-- End of Drapes section !-->
+
+---
+
+### SoftMicro Poverty
+
+<details open><summary><p><b>Click/tap here to expand/collapse the SoftMicro Poverty section</b></p></summary>
+
+> [:octocat: `SoftMicro Poverty`](https://github.com/seanpm2001/SoftMicro_Poverty/)
+
+A parody of Microsoft Money.
+
+</details> <!-- End of SoftMicro Poverty Section !-->
 
 ---
 
@@ -464,6 +534,200 @@ I have had an interest in Windows parodies for a long time, and it is something 
 
 ***
 
+## Original project draft
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Original project draft section</b></p></summary>
+
+Modified variant (from 2025, April 23rd)
+
+```
+==
+SoftMicro repositories (a parody of Microsoft)
+
+Losedows clarification
+Losedows is a series of joke programs. It is not meant to be a replacement for Windows, but rather a joke environent
+The name was inspired by the GNU article
+
+<Why call it the Swindle>
+
+Although Losedows is a rather common term for Windows. 
+
+Alternative name idea:
+Drapes
+
+
+
+
+
+
+
+Why not call it doors?
+...
+
+Trademark issues
+...
+
+SoftMicro
+SoftMicro_Docs
+SoftMicro-DOS
+SoftMicro-DOS_Docs
+SoftMicro-Scratch
+SoftMicro-Scratch_Docs
+SoftMicroNetworkBroadcastChannel-SMNBC
+SoftMicroNetworkBroadcastChannel-SMNBC_Docs
+SoftMicro_LoseDows
+SoftMicro_LoseDows_Docs
+SoftMicro_SM-DOG
+SoftMifro_SM-DOG_Docs
+SoftMicro_LoseDows_1.x
+SoftMicro_LoseDows_1.x_Docs
+SoftMicro_LoseDows_2.x
+SoftMicro_LoseDows_2.x_Docs
+SoftMicro_LoseDows_2.1.x
+SoftMicro_LoseDows_2.1.x_Docs
+SoftMicro_LoseDows_3.x
+SoftMicro_LoseDows_3.x_Docs
+SoftMicro_LoseDows_3.1.x
+SoftMicro_LoseDows_3.1.x_Docs
+SoftMicro_LoseDows_3.2 (Chinese, major series of Chinese political jokes)
+SoftMicro_LoseDows_3.2_Docs
+SoftMicro_LoseDows_3.5.x
+SoftMicro_LoseDows_3.5.x_Docs
+SoftMicro_LoseDows_4.x
+SoftMicro_LoseDows_4.x_Docs
+SoftMicro_LoseDows_5.x
+SoftMicro_LoseDows_5.x_Docs
+SoftMicro_LoseDows_95
+SoftMicro_LoseDows_95_Docs 
+SoftMicro_LoseDows_98
+SoftMicro_LoseDows_98_Docs
+SoftMicro_LoseDows_ME (Mistake Edition)
+SoftMicro_LoseDows_ME_Docs
+SoftMicro_LoseDows_2000
+SoftMicro_LoseDows_2000_Docs
+SoftMicro_LoseDows_3000 ("futuristic" version of WIN2K, make it bizarre)
+SoftMicro_LoseDows_3000_Docs
+SoftMicro_LoseDows_XD
+SoftMicro_LoseDows_XD_Docs
+SoftMicro_LoseDows_Veeestah
+SoftMicro_LoseDows_Veeestah_Docs
+SoftMicro_LoseDows_CE-ME-NT
+SoftMicro_LoseDows_CE-ME-NT_Docs
+SoftMicro_LoseDows_Server_2003
+SoftMicro_LoseDows_Server_2003_Docs
+SoftMicro_LoseDows_Server_2008
+SoftMicro_LoseDows_Server_2008_Docs
+SoftMicro_LoseDows_Server_2012 (use code "maya" for an apocalyptic theme, world ends in 2012)
+SoftMicro_LoseDows_Server_2012_Docs
+SoftMicro_LoseDows_Server_2016
+SoftMicro_LoseDows_Server_2016_Docs
+SoftMicro_LoseDows_Server_2019
+SoftMicro_LoseDows_Server_2019_Docs
+SoftMicro_LoseDows_Server_2022
+SoftMicro_LoseDows_Server_2022_Docs
+SoftMicro_LoseDows_Server_2025
+SoftMicro_LoseDows_Server_2025_Docs
+SoftMicro_LoseDows_7x
+SoftMicro_LoseDows_7x_Docs
+SoftMicro_LoseDows_8x
+SoftMicro_LoseDows_8x_Docs
+SoftMicro_LoseDows_9x (the hidden one)
+SoftMicro_LoseDows_9x_Docs
+SoftMicro_LoseDows_10x
+SoftMicro_LoseDows_10x_Docs
+SoftMicro_LoseDows_11x
+SoftMicro_LoseDows_11x_Docs
+SoftMicro_LoseDows_12x
+SoftMicro_LoseDows_12x_Docs
+SoftMicro_Poverty (Microsoft Money)
+SoftMicro_Poverty_Docs
+SoftMicro_TheOffice (office suite, 3rd party The Office theme set)
+SoftMicro_TheOffice_Docs
+SoftMicro_TheOffice_PointPower
+SoftMicro_TheOffice_PointPower_Docs
+SoftMicro_TheOffice_Wordy
+SoftMicro_TheOffice_Wordy_Docs
+SoftMicro_TheOffice_Excellent (Excel)
+SoftMicro_TheOffice_Excellent_Docs
+SoftMicro_TheOffice_Access_Denied (Access)
+SoftMicro_TheOffice_Access_Denied_Docs
+SoftMicro_Losedows-Film-Maker
+SoftMicro_Losedows-Film-Maker_Docs
+SoftMicro_SMN
+SoftMicro_SMN_Docs
+SoftMicro_SMN-Messenger
+SoftMicro_SMN-Messenger_Docs
+SoftMicro_Web-Explorer (write in C, Pascal, HTML, CSS, JavaScript, and HTTP)
+SoftMicro_Web-Explorer_Docs
+SoftMicro_Edgy (write in Edge, EdgeQL, F#, and Rust, HTML, CSS, TypeScript, and HTTP)
+SoftMicro_Edgy_Docs
+
+Beta versions of Drapes
+Drapes CE
+
+START LISTING NEW ENTRIES
+
+Drapes_Server_2003_R2
+Drapes_Server_2003_R2_Docs
+Drapes_Server_2008_R2
+Drapes_Server_2008_R2_Docs
+
+Drapes_95_Beta
+Drapes_95_Beta_Docs
+Drapes_98_Beta
+Drapes_98_Beta_Docs
+Drapes_2000_Beta
+Drapes_2000_Beta_Docs
+Drapes_3000_Beta
+Drapes_3000_Beta_Docs
+Drapes_ME_Beta
+Drapes_ME_Beta_Docs
+Drapes_XD_Beta
+Drapes_XD_Beta_Docs
+Drapes_Veeesta_Beta
+Drapes_Veeesta_Beta_Docs
+Drapes_Server_2003_Beta
+Drapes_Server_2003_Beta_Docs
+Drapes_Server_2003_R2_Beta
+Drapes_Server_2003_R2_Beta_Docs
+Drapes_Server_2008_Beta
+Drapes_Server_2008_Beta_Docs
+Drapes_Server_2008_R2_Beta
+Drapes_Server_2008_R2_Beta_Docs
+Drapes_Server_2012_Beta
+Drapes_Server_2012_Beta_Docs
+Drapes_Server_2016_Beta
+Drapes_Server_2016_Beta_Docs
+Drapes_Server_2019_Beta
+Drapes_Server_2019_Beta_Docs
+Drapes_Server_2022_Beta
+Drapes_Server_2022_Beta_Docs
+Drapes_Server_2025_Beta
+Drapes_Server_2025_Beta_Docs
+Drapes_7.x_Beta
+Drapes_7.x_Beta_Docs
+Drapes_8.x_Beta
+Drapes_8.x_Beta_Docs
+Drapes_9.x_Beta
+Drapes_9.x_Beta_Docs
+Drapes_10.x_Beta
+Drapes_10.x_Beta_Docs
+Drapes_11.x_Beta
+Drapes_11.x_Beta_Docs
+Drapes_12.x_Beta
+Drapes_12.x_Beta_Docs
+...
+
+Beta versions of Drapes
+Drapes CE
+
+Different versions of MS office software
+```
+
+</details> <!-- End of Original project draft section !-->
+
+***
+
 <!-- /%/2001_FILE_INFO_SECTION.BEGIN\%\ !-->
 
 ### File Info
@@ -471,12 +735,12 @@ I have had an interest in Windows parodies for a long time, and it is something 
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `8 (2025, Wednesday, April 23rd at 05:33 pm PST)`
-- **Line count (including blank lines and compiler line):** `0,706`
-- **Word count:** `04,058`
-- **Character count (with spaces):** `025,635 characters`
-- **Character count (without spaces)** `21,786 characters`
-- **File size (in bytes)** `21,666 characters`
+- **File version:** `9 (2025, Saturday, April 26th at 06:24 pm PST)`
+- **Line count (including blank lines and compiler line):** `0,996`
+- **Word count:** `05,285`
+- **Character count (with spaces):** `033,500 characters`
+- **Character count (without spaces)** `28,853 characters`
+- **File size (in bytes)** `33,525 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -679,6 +943,32 @@ History of this file.
 - [ ] No other changes in version 8
 
 </details> <!-- End of V8 !-->
+
+---
+
+<details open><summary><H2>Version 9 (2025, Saturday, April 26th at 06:24 pm PST)</H2></summary>
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the ninth version of the file, with some small changes._
+
+> Changes
+
+- [x] Updated the Products section
+- - [x] Updated the Drapes 7.x subsection
+- - [x] Updated the Drapes 8.x subsection
+- - [x] Added the Drapes 9.x subsection
+- - [x] Added the Drapes 10.x subsection
+- - [x] Added the Drapes 11.x subsection
+- - [x] Added the Drapes 12.x subsection
+- - [x] Added the SoftMicro Poverty subsection
+- [x] Added the  Original Project Draft section
+- [x] Updated the File info section
+- [x] Updated the File history section
+- - [x] Added an entry for version 9
+- [ ] No other changes in version 9
+
+</details> <!-- End of V9 !-->
 
 ---
 
