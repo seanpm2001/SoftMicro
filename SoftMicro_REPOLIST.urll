@@ -2,10 +2,10 @@
 //// SoftMicro_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SoftMicro project repositories by @seanpm2001
-//// As of 2025, Saturday, April 26th
+//// As of 2025, Sunday, April 27th
 
 //// ----------------------------------------------------- \\\\
-//// SoftMicro Project (74)
+//// SoftMicro Project (84)
 //// ----------------------------------------------------- \\\\
 
 //// SoftMicro Core (1)
@@ -196,9 +196,34 @@ https://github.com/seanpm2001/SoftMicro_Drapes_12x_Docs
 https://github.com/seanpm2001/SoftMicro_Poverty
 https://github.com/seanpm2001/SoftMicro_Poverty_Docs
 
+//// SoftMicro TheOffice (2)
+
+https://github.com/seanpm2001/SoftMicro_TheOffice
+https://github.com/seanpm2001/SoftMicro_TheOffice_Docs
+
+//// SoftMicro TheOffice: PointPower (2)
+
+https://github.com/seanpm2001/SoftMicro_TheOffice_PointPower
+https://github.com/seanpm2001/SoftMicro_TheOffice_PointPower_Docs
+
+//// SoftMicro TheOffice: Wordy (2)
+
+https://github.com/seanpm2001/SoftMicro_TheOffice_Wordy
+https://github.com/seanpm2001/SoftMicro_TheOffice_Wordy_Docs
+
+//// SoftMicro TheOffice: Excellent (2)
+
+https://github.com/seanpm2001/SoftMicro_TheOffice_Excellent
+https://github.com/seanpm2001/SoftMicro_TheOffice_Excellent_Docs
+
+//// SoftMicro TheOffice: Access Denied (2)
+
+https://github.com/seanpm2001/SoftMicro_TheOffice_Access_Denied
+https://github.com/seanpm2001/SoftMicro_TheOffice_Access_Denied_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (SoftMicro): 74
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=74
+//// Repo count (SoftMicro): 84
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=84
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -210,15 +235,15 @@ https://github.com/seanpm2001/SoftMicro_Poverty_Docs
 //// Repo count (See also): 0
 //// 0+0=0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 74
-//// 74+0=74
+//// Total repo count: 84
+//// 84+0=84
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 9 (2025, Saturday, April 26th at 06:23 pm PST)
-//// Line count (including blank lines and compiler line): 225
+//// File version: 10 (2025, Sunday, April 27th at 06:28 pm PST)
+//// Line count (including blank lines and compiler line): 250
 //// ----------------------------------------------------- \\\\
 
 //// End of file
