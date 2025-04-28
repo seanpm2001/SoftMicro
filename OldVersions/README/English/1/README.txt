@@ -447,6 +447,166 @@ A parody of Microsoft Money.
 
 ---
 
+### SoftMicro The Office
+
+<details open><summary><p><b>Click/tap here to expand/collapse the SoftMicro:The Office section</b></p></summary>
+
+> [:octocat: `The Office`](https://github.com/seanpm2001/SoftMicro_TheOffice/)
+
+A spoof office suite, intended to parody Microsoft Office. It is named after the TV show The Office, and will feature many references to the show, along with a custom Dunder Mifflin 3rd party theme.
+
+---
+
+#### SoftMicro The Office: PointPower
+
+<details open><summary><p><b>Click/tap here to expand/collapse the SoftMicro: The Office: PointPower section</b></p></summary>
+
+> [:octocat: `The Office: PointPower`](https://github.com/seanpm2001/SoftMicro_TheOffice_PointPower/)
+
+A parody of Microsoft PowerPoint. And nobody paid any attention. It's my own fault for using PointPower. PointPower is boring.
+
+Variants
+
+- PointPower 1.x
+- PointPower 2.x
+- PointPower 3.x
+- PointPower 4.x
+- PointPower 95
+- PointPower 97
+- PointPower 98
+- PointPower 2000
+- PointPower 3000
+- PointPower 2001
+- PointPower XD
+- PointPower 2003
+- PointPower 2005
+- PointPower 2007
+- PointPower 2008
+- PointPower 2012
+- PointPower 2013
+- PointPower 2016
+- PointPower 2019
+- PointPower 2022
+- PointPower 2025
+
+</details> <!-- End of The Office:PointPower Section !-->
+
+---
+
+#### SoftMicro The Office: Wordy
+
+<details open><summary><p><b>Click/tap here to expand/collapse the SoftMicro: The Office: Wordy section</b></p></summary>
+
+> [:octocat: `The Office: Wordy`](https://github.com/seanpm2001/SoftMicro_TheOffice_PointPower/)
+
+A parody of Microsoft Word. CreedThoughts.gov is actually a Wordy document [insert actual quote here](#I-couldn-t-easily-find-it)
+
+Variants
+
+- Wordy 1.x
+- Wordy 2.x
+- Wordy 3.x
+- Wordy 4.x
+- Wordy 95
+- Wordy 97
+- Wordy 98
+- Wordy 2000
+- Wordy 3000
+- Wordy 2001
+- Wordy XD
+- Wordy 2003
+- Wordy 2005
+- Wordy 2007
+- Wordy 2008
+- Wordy 2012
+- Wordy 2013
+- Wordy 2016
+- Wordy 2019
+- Wordy 2022
+- Wordy 2025
+
+</details> <!-- End of The Office:Wordy Section !-->
+
+---
+
+#### SoftMicro The Office: Excellent
+
+<details open><summary><p><b>Click/tap here to expand/collapse the SoftMicro: The Office: Excellent section</b></p></summary>
+
+> [:octocat: `The Office: Excellent`](https://github.com/seanpm2001/SoftMicro_TheOffice_Excellent/)
+
+A parody of Microsoft Excel. Excellent
+
+Variants
+
+- Excellent 1.x
+- Excellent 2.x
+- Excellent 3.x
+- Excellent 4.x
+- Excellent 95
+- Excellent 97
+- Excellent 98
+- Excellent 2000
+- Excellent 3000
+- Excellent 2001
+- Excellent XD
+- Excellent 2003
+- Excellent 2005
+- Excellent 2007
+- Excellent 2008
+- Excellent 2012
+- Excellent 2013
+- Excellent 2016
+- Excellent 2019
+- Excellent 2022
+- Excellent 2025
+
+</details> <!-- End of The Office:Excellent Section !-->
+
+---
+
+#### SoftMicro The Office: Access Denied
+
+<details open><summary><p><b>Click/tap here to expand/collapse the SoftMicro: The Office: Access Denid section</b></p></summary>
+
+> [:octocat: `The Office: Access Denied`](https://github.com/seanpm2001/SoftMicro_TheOffice_Access_Denied/)
+
+A parody of Microsoft Access. Access Denied. Please enter the password again.
+
+Variants
+
+- Access Denied 1.x
+- Access Denied 2.x
+- Access Denied 3.x
+- Access Denied 4.x
+- Access Denied 95
+- Access Denied 97
+- Access Denied 98
+- Access Denied 2000
+- Access Denied 3000
+- Access Denied 2001
+- Access Denied XD
+- Access Denied 2003
+- Access Denied 2005
+- Access Denied 2007
+- Access Denied 2008
+- Access Denied 2012
+- Access Denied 2013
+- Access Denied 2016
+- Access Denied 2019
+- Access Denied 2022
+- Access Denied 2025
+
+</details> <!-- End of The Office:Access Denied Section !-->
+
+---
+
+End of The Office section. MICHAEL!
+
+</details> <!-- End of The Office section !-->
+
+---
+
 ### SoftMicro Scratch
 
 <details open><summary><p><b>Click/tap here to expand/collapse the SoftMicro Scratch section</b></p></summary>
@@ -735,12 +895,12 @@ Different versions of MS office software
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `9 (2025, Saturday, April 26th at 06:24 pm PST)`
-- **Line count (including blank lines and compiler line):** `0,996`
-- **Word count:** `05,285`
-- **Character count (with spaces):** `033,500 characters`
-- **Character count (without spaces)** `28,853 characters`
-- **File size (in bytes)** `33,525 characters`
+- **File version:** `10 (2025, Sunday, April 27th at 06:29 pm PST)`
+- **Line count (including blank lines and compiler line):** `1,179`
+- **Word count:** `05,922`
+- **Character count (with spaces):** `037,959 characters`
+- **Character count (without spaces)** `32,617 characters`
+- **File size (in bytes)** `37,984 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -969,6 +1129,29 @@ History of this file.
 - [ ] No other changes in version 9
 
 </details> <!-- End of V9 !-->
+
+---
+
+<details open><summary><H2>Version 10 (2025, Sunday, April 27th at 06:29 pm PST)</H2></summary>
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the tenth version of the file, with some small changes._
+
+> Changes
+
+- [x] Updated the Products section
+- - [x] Added the SoftMicro: The Office subsection
+- - [x] Added the SoftMicro: The Office:PointPower subsection
+- - [x] Added the SoftMicro: The Office:Wordy subsection
+- - [x] Added the SoftMicro: The Office:Excellent subsection
+- - [x] Added the SoftMicro: The Office:Access Denied subsection
+- [x] Updated the File info section
+- [x] Updated the File history section
+- - [x] Added an entry for version 10
+- [ ] No other changes in version 10
+
+</details> <!-- End of V10 !-->
 
 ---
 
