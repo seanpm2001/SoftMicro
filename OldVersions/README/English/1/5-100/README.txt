@@ -607,6 +607,70 @@ End of The Office section. MICHAEL!
 
 ---
 
+### SoftMicro Drapes Film Maker
+
+<details open><summary><p><b>Click/tap here to expand/collapse the SoftMicro Drapes Film Maker section</b></p></summary>
+
+> [:octocat: `SoftMicro Drapes Film Maker`](https://github.com/seanpm2001/SoftMicro_Drapes-Film-Maker/)
+
+A parody of Windows Movie Maker. Only wacky effects are present. `YTP Good.wmv` comes with stock footage.
+
+</details> <!-- End of SoftMicro Drapes Film Maker section !-->
+
+---
+
+### SoftMicro SMN
+
+<details open><summary><p><b>Click/tap here to expand/collapse the SoftMicro SMN section</b></p></summary>
+
+> [:octocat: `SoftMicro SMN`](https://github.com/seanpm2001/SoftMicro_SMN/)
+
+A parody of MSN.
+
+</details> <!-- End of SoftMicro SMN section !-->
+
+---
+
+### SoftMicro SMN Messenger
+
+<details open><summary><p><b>Click/tap here to expand/collapse the SoftMicro SMN Messenger section</b></p></summary>
+
+> [:octocat: `SoftMicro SMN Messenger`](https://github.com/seanpm2001/SoftMicro_SMN-Messenger/)
+
+A parody of MSN Messenger.
+
+</details> <!-- End of SoftMicro SMN Messenger section !-->
+
+---
+
+### SoftMicro Web Explorer
+
+<details open><summary><p><b>Click/tap here to expand/collapse the SoftMicro Web Explorer section</b></p></summary>
+
+> [:octocat: `SoftMicro Web Explorer`](https://github.com/seanpm2001/SoftMicro_Web-Explorer/)
+
+A parody of Microsoft Internet Explorer. Mandatory for Drapes 95 to Drapes 9, default browser (which will automatically change back after each restart, if you try to change the default browser) browse the Internet slowly (some pages take years to open) a built-in joke intranet will be included for browsing. Anti-trust lawsuit coming soon.
+
+Variants
+
+- Web Explorer 1.x
+- Web Explorer 2.x
+- Web Explorer 3.x
+- Web Explorer 4.x
+- Web Explorer 5.x
+- Web Explorer 6.x
+- Web Explorer 7.x
+- Web Explorer 8.x
+- Web Explorer 9.x
+- Web Explorer 10.x
+- Web Explorer 11.x
+
+Written in: C, Pascal, HTML, CSS, JavaScript, and HTTP
+
+</details> <!-- End of SoftMicro Web Explorer section !-->
+
+---
+
 ### SoftMicro Scratch
 
 <details open><summary><p><b>Click/tap here to expand/collapse the SoftMicro Scratch section</b></p></summary>
@@ -895,12 +959,12 @@ Different versions of MS office software
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `10 (2025, Sunday, April 27th at 06:29 pm PST)`
-- **Line count (including blank lines and compiler line):** `1,179`
-- **Word count:** `05,922`
-- **Character count (with spaces):** `037,959 characters`
-- **Character count (without spaces)** `32,617 characters`
-- **File size (in bytes)** `37,984 characters`
+- **File version:** `11 (2025, Monday, April 28th at 06:08 pm PST)`
+- **Line count (including blank lines and compiler line):** `1,265`
+- **Word count:** `06,323`
+- **Character count (with spaces):** `040,649 characters`
+- **Character count (without spaces)** `34,907 characters`
+- **File size (in bytes)** `40,674 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1152,6 +1216,28 @@ History of this file.
 - [ ] No other changes in version 10
 
 </details> <!-- End of V10 !-->
+
+---
+
+<details open><summary><H2>Version 11 (2025, Monday, April 28th at 06:08 pm PST)</H2></summary>
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the eleventh version of the file, with some small changes._
+
+> Changes
+
+- [x] Updated the Products section
+- - [x] Added the SoftMicro: Drapes Film Maker subsection
+- - [x] Added the SoftMicro: SMN subsection
+- - [x] Added the SoftMicro: SMN Messenger subsection
+- - [x] Added the SoftMicro: Web Explorer subsection
+- [x] Updated the File info section
+- [x] Updated the File history section
+- - [x] Added an entry for version 11
+- [ ] No other changes in version 11
+
+</details> <!-- End of V11 !-->
 
 ---
 
