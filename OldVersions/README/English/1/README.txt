@@ -275,6 +275,18 @@ The first major server variant of Drapes (besides Drapes 2000) it will contain s
 
 </details> <!-- End of Drapes Server 2003 section !-->
 
+#### Drapes Server 2003 R2
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2003 section</b></p></summary>
+
+> [:octocat: `Drapes Server 2003 R2`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003_R2/)
+
+A parody of Windows Server 2003 R2. Part of the Drapes spoof operating system family.
+
+A variant of the first major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2003 R2.
+
+</details> <!-- End of Drapes Server 2003 R2 section !-->
+
 #### Drapes Server 2008
 
 <details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2008 section</b></p></summary>
@@ -286,6 +298,18 @@ A parody of Windows Server 2008. Part of the Drapes spoof operating system famil
 The second major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2008.
 
 </details> <!-- End of Drapes Server 2008 Section !-->
+
+#### Drapes Server 2003 R2
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2003 section</b></p></summary>
+
+> [:octocat: `Drapes Server 2008 R2`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2008_R2/)
+
+A parody of Windows Server 20038R2. Part of the Drapes spoof operating system family.
+
+A variant of the second major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2008 R2.
+
+</details> <!-- End of Drapes Server 2008 R2 section !-->
 
 #### Drapes Server 2012
 
@@ -671,6 +695,27 @@ Written in: C, Pascal, HTML, CSS, JavaScript, and HTTP
 
 ---
 
+### SoftMicro Edgy
+
+<details open><summary><p><b>Click/tap here to expand/collapse the SoftMicro Web Explorer section</b></p></summary>
+
+> [:octocat: `SoftMicro Web Explorer`](https://github.com/seanpm2001/SoftMicro_Web-Explorer/)
+
+A parody of Microsoft Edge. Mandatory for Drapes 10 to Drapes 12, default browser (which will automatically change back after each restart, if you try to change the default browser) contains a built-in joke Intranet.
+
+Variants
+
+- Edgy (EdgyHTML)
+- Edgy (Chromium)
+
+Chromium version will not actually be based on Chromium. It will also contain a built-in browser game, similar to Microsoft Edge:surf, but in a snowy setting.
+
+Written in: Edge, EdgeQL, F#, Rust, HTML, CSS, TypeScript, and HTTP
+
+</details> <!-- End of SoftMicro Web Explorer section !-->
+
+---
+
 ### SoftMicro Scratch
 
 <details open><summary><p><b>Click/tap here to expand/collapse the SoftMicro Scratch section</b></p></summary>
@@ -959,12 +1004,12 @@ Different versions of MS office software
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `11 (2025, Monday, April 28th at 06:08 pm PST)`
-- **Line count (including blank lines and compiler line):** `1,265`
-- **Word count:** `06,323`
-- **Character count (with spaces):** `040,649 characters`
-- **Character count (without spaces)** `34,907 characters`
-- **File size (in bytes)** `40,674 characters`
+- **File version:** `12 (2025, Tuesday, April 29th at 06:09 pm PST)`
+- **Line count (including blank lines and compiler line):** `1,331`
+- **Word count:** `06,713`
+- **Character count (with spaces):** `043,202 characters`
+- **Character count (without spaces)** `37,071 characters`
+- **File size (in bytes)** `43,227 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1238,6 +1283,27 @@ History of this file.
 - [ ] No other changes in version 11
 
 </details> <!-- End of V11 !-->
+
+---
+
+<details open><summary><H2>Version 12 (2025, Tuesday, April 29th at 06:09 pm PST)</H2></summary>
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the twelfth version of the file, with some small changes._
+
+> Changes
+
+- [x] Updated the Products section
+- - [x] Added the SoftMicro: Drapes Server 2003 R2 subsection
+- - [x] Added the SoftMicro: Drapes Server 2008 R2 subsection
+- - [x] Added the SoftMicro: Edgy subsection
+- [x] Updated the File info section
+- [x] Updated the File history section
+- - [x] Added an entry for version 12
+- [ ] No other changes in version 12
+
+</details> <!-- End of V12 !-->
 
 ---
 
