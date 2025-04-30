@@ -2,10 +2,10 @@
 //// SoftMicro_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SoftMicro project repositories by @seanpm2001
-//// As of 2025, Monday, April 28th
+//// As of 2025, Tuesday, April 29th
 
 //// ----------------------------------------------------- \\\\
-//// SoftMicro Project (91)
+//// SoftMicro Project (98)
 //// ----------------------------------------------------- \\\\
 
 //// SoftMicro Core (1)
@@ -131,10 +131,19 @@ https://github.com/seanpm2001/SoftMicro_Drapes_CE-ME-NT_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003_Docs
 
+//// SoftMicro Drapes Server 2003 R2 (2)
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003_R2
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003_R2_Docs
+
 //// SoftMicro Drapes Server 2008 (2)
 
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2008
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2008_Docs
+
+//// SoftMicro Drapes Server 2008 R2 (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2008_R2
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2008_R2_Docs
 
 //// SoftMicro Drapes Server 2012 (2)
 
@@ -236,33 +245,57 @@ https://github.com/seanpm2001/SoftMicro_SMN_Docs
 https://github.com/seanpm2001/SoftMicro_SMN-Messenger
 https://github.com/seanpm2001/SoftMicro_SMN-Messenger_Docs
 
-//// SoftMicro Web Explorer (1)
+//// SoftMicro Web Explorer (2)
 
 https://github.com/seanpm2001/SoftMicro_Web-Explorer
+https://github.com/seanpm2001/SoftMicro_Web-Explorer_Docs
+
+//// SoftMicro Edgy (2)
+
+https://github.com/seanpm2001/SoftMicro_Edgy
+https://github.com/seanpm2001/SoftMicro_Edgy_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (SoftMicro): 91
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+1=91
+//// Repo count (SoftMicro): 98
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=98
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
-//// See also (0)
+//// See also (5)
 
-//// Nothing to list
+//// WacOS (not a parody) (1)
+
+https://github.com/seanpm2001/WacOS/
+
+//// BlazeOS (not a parody (1)
+
+https://github.com/seanpm2001/BlazeOS/
+
+//// Android x32 (not a parody) (1)
+
+https://github.com/seanpm2001/Android-x32/
+
+//// Android x64 (not a parody) (1)
+
+https://github.com/seanpm2001/Android-x64/
+
+//// Android x128 (not a parody) (1)
+
+https://github.com/seanpm2001/Android-x128/
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (See also): 0
-//// 0+0=0
+//// Repo count (See also): 5
+//// 1+1+1+1+1=5
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 91
-//// 91+0=91
+//// Total repo count: 103
+//// 98+5=103
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 11 (2025, Monday, April 28th at 06:07 pm PST)
-//// Line count (including blank lines and compiler line): 269
+//// File version: 12 (2025, Tuesday, April 29th at 06:08 pm PST)
+//// Line count (including blank lines and compiler line): 302
 //// ----------------------------------------------------- \\\\
 
 //// End of file
