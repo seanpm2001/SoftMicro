@@ -2,10 +2,10 @@
 //// SoftMicro_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SoftMicro project repositories by @seanpm2001
-//// As of 2025, Tuesday, April 29th
+//// As of 2025, Wednesday, April 30th
 
 //// ----------------------------------------------------- \\\\
-//// SoftMicro Project (98)
+//// SoftMicro Project (106)
 //// ----------------------------------------------------- \\\\
 
 //// SoftMicro Core (1)
@@ -91,10 +91,20 @@ https://github.com/seanpm2001/SoftMicro_Drapes_5.x_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_95
 https://github.com/seanpm2001/SoftMicro_Drapes_95_Docs
 
+//// SoftMicro Drapes 95 beta (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_95_Beta
+https://github.com/seanpm2001/SoftMicro_Drapes_95_Beta_Docs
+
 //// SoftMicro Drapes 98 (2)
 
 https://github.com/seanpm2001/SoftMicro_Drapes_98
 https://github.com/seanpm2001/SoftMicro_Drapes_98_Docs
+
+//// SoftMicro Drapes 98 beta (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_98_Beta
+https://github.com/seanpm2001/SoftMicro_Drapes_98_Beta_Docs
 
 //// SoftMicro Drapes ME (Mistake Edition, aren't we all?) (2)
 
@@ -106,10 +116,20 @@ https://github.com/seanpm2001/SoftMicro_Drapes_ME_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_2000
 https://github.com/seanpm2001/SoftMicro_Drapes_2000_Docs
 
+//// SoftMicro Drapes 2000 beta (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_2000_Beta
+https://github.com/seanpm2001/SoftMicro_Drapes_2000_Beta_Docs
+
 //// SoftMicro Drapes 3000 (2)
 
 https://github.com/seanpm2001/SoftMicro_Drapes_3000
 https://github.com/seanpm2001/SoftMicro_Drapes_3000_Docs
+
+//// SoftMicro Drapes 3000 beta (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_3000_Beta
+https://github.com/seanpm2001/SoftMicro_Drapes_3000_Beta_Docs
 
 //// SoftMicro Drapes XD (2)
 
@@ -256,8 +276,8 @@ https://github.com/seanpm2001/SoftMicro_Edgy
 https://github.com/seanpm2001/SoftMicro_Edgy_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (SoftMicro): 98
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=98
+//// Repo count (SoftMicro): 106
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=106
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -287,15 +307,15 @@ https://github.com/seanpm2001/Android-x128/
 //// Repo count (See also): 5
 //// 1+1+1+1+1=5
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 103
-//// 98+5=103
+//// Total repo count: 111
+//// 106+5=111
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 12 (2025, Tuesday, April 29th at 06:08 pm PST)
-//// Line count (including blank lines and compiler line): 302
+//// File version: 13 (2025, Wednesday, April 30th at 05:51 pm PST)
+//// Line count (including blank lines and compiler line): 322
 //// ----------------------------------------------------- \\\\
 
 //// End of file
