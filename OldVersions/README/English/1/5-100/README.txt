@@ -173,6 +173,16 @@ Codename: D95
 
 </details> <!-- End of Drapes 95 section !-->
 
+#### Drapes 95 Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 95 Beta section</b></p></summary>
+
+> [:octocat: `Drapes 95 Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_95_Beta/)
+
+A parody of the Windows 95 beta. Part of the Drapes spoof operating system family.
+
+</details> <!-- End of Drapes 95 Beta section !-->
+
 #### Drapes 98
 
 <details open><summary><p><b>Click/tap here to expand/collapse the Drapes 98 section</b></p></summary>
@@ -184,6 +194,16 @@ A parody of Windows 98. Part of the Drapes spoof operating system family.
 Codename: D98
 
 </details> <!-- End of Drapes 98 section !-->
+
+#### Drapes 98 Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 98 Beta section</b></p></summary>
+
+> [:octocat: `Drapes 98 Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_98_Beta/)
+
+A parody of the Windows 98 beta. Part of the Drapes spoof operating system family.
+
+</details> <!-- End of Drapes 98 Beta section !-->
 
 <!-- TODO
 Keep the order: 98 -> ME -> 2000 -> 3000 -> XD. It is a correction of what the order should have been for: 98 -> 2000 -> ME -> XP
@@ -213,6 +233,16 @@ A parody of Windows 2000. Part of the Drapes spoof operating system family.
 
 </details> <!-- End of Drapes 2000 section !-->
 
+#### Drapes 2000 Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 2000 Beta section</b></p></summary>
+
+> [:octocat: `Drapes 2000 Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_2000_Beta/)
+
+A parody of the Windows 2000 beta. Part of the Drapes spoof operating system family.
+
+</details> <!-- End of Drapes 2000 Beta section !-->
+
 #### Drapes 3000
 
 <details open><summary><p><b>Click/tap here to expand/collapse the Drapes 3000 section</b></p></summary>
@@ -224,6 +254,18 @@ A parody of Windows 2000. Part of the Drapes spoof operating system family.
 This is a specialized parody of Windows 2000. The main difference is that it will feature extensive references to more things that were considered futuristic in 1999 (thing Futurama, Sim City 3000, and the likes)
 
 </details> <!-- End of Drapes 3000 section !-->
+
+#### Drapes 3000 Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 3000 Beta section</b></p></summary>
+
+> [:octocat: `Drapes 3000 Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_2000_Beta/)
+
+A parody of the Windows 2000 Beta. Part of the Drapes spoof operating system family.
+
+This is a specialized parody of the Windows 2000 Beta. The main difference is that it will feature extensive references to more things that were considered futuristic in 1999 (thing Futurama, Sim City 3000, and the likes)
+
+</details> <!-- End of Drapes 3000 Beta section !-->
 
 #### Drapes XD
 
@@ -1004,12 +1046,12 @@ Different versions of MS office software
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `12 (2025, Tuesday, April 29th at 06:09 pm PST)`
-- **Line count (including blank lines and compiler line):** `1,331`
-- **Word count:** `06,713`
-- **Character count (with spaces):** `043,202 characters`
-- **Character count (without spaces)** `37,071 characters`
-- **File size (in bytes)** `43,227 characters`
+- **File version:** `13 (2025, Wednesday, April 30th at 05:52 pm PST)`
+- **Line count (including blank lines and compiler line):** `01,395`
+- **Word count:** `07,082`
+- **Character count (with spaces):** `045,604 characters`
+- **Character count (without spaces)** `39,116 characters`
+- **File size (in bytes)** `45,629 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1304,6 +1346,28 @@ History of this file.
 - [ ] No other changes in version 12
 
 </details> <!-- End of V12 !-->
+
+---
+
+<details open><summary><H2>Version 13 (2025, Wednesday, April 30th at 05:52 pm PST)</H2></summary>
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the thirteenth version of the file, with some small changes._
+
+> Changes
+
+- [x] Updated the Products section
+- - [x] Added the SoftMicro: Drapes 95 Beta subsection
+- - [x] Added the SoftMicro: Drapes 98 Beta subsection
+- - [x] Added the SoftMicro: Drapes 2000 Beta subsection
+- - [x] Added the SoftMicro: Drapes 3000 Beta subsection
+- [x] Updated the File info section
+- [x] Updated the File history section
+- - [x] Added an entry for version 13
+- [ ] No other changes in version 13
+
+</details> <!-- End of V13 !-->
 
 ---
 
