@@ -211,17 +211,29 @@ Keep the order: 98 -> ME -> 2000 -> 3000 -> XD. It is a correction of what the o
 
 #### Drapes ME
 
-<details open><summary><p><b>Click/tap here to expand/collapse the Drapes ME section</b></p></summary>
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes ME Beta section</b></p></summary>
 
-> [:octocat: `Drapes ME`](https://github.com/seanpm2001/SoftMicro_Drapes_ME/)
+> [:octocat: `Drapes ME Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_ME_Beta/)
 
-A parody of Windows ME. Part of the Drapes spoof operating system family.
+A parody of the Windows ME Beta. Part of the Drapes spoof operating system family.
 
 Drapes ME (Mistake Edition) will be similar to Windows ME, but will be far less stable, and will be the most unstable release of Drapes.
 
 Aren't we all? See, Drapes ME is already letting its self-deprecating escape its compounds (everything it touches becomes a mistake)
 
 </details> <!-- End of Drapes ME section !-->
+
+#### Drapes ME Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes ME Beta section</b></p></summary>
+
+> [:octocat: `Drapes ME`](https://github.com/seanpm2001/SoftMicro_Drapes_ME/)
+
+A parody of the Windows ME Beta. Part of the Drapes spoof operating system family.
+
+Drapes ME (Mistake Edition) will be similar to Windows ME, but will be far less stable, and will be the most unstable release of Drapes.
+
+</details> <!-- End of Drapes ME Beta section !-->
 
 #### Drapes 2000
 
@@ -281,6 +293,16 @@ TODO: Losedows XD: Something regarding the 'bush hid the facts' bug in WIndows X
 
 </details> <!-- End of Drapes XD section !-->
 
+#### Drapes XD Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes XD Beta section</b></p></summary>
+
+> [:octocat: `Drapes XD Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_XD_Beta/)
+
+A parody of the Windows XP Beta (Windows Whistler) Part of the Drapes spoof operating system family.
+
+</details> <!-- End of Drapes XD Beta section !-->
+
 #### Drapes Veeestah
 
 <details open><summary><p><b>Click/tap here to expand/collapse the Drapes Veeestah section</b></p></summary>
@@ -292,6 +314,18 @@ A parody of Windows Vista. Part of the Drapes spoof operating system family.
 It is spelled with 3 e's, not 2 or 1. The number of e's do not correlate to any acronym. The system will be relatively unstable, but not as much as Drapes ME. In the final variant, a red screen of death will be present.
 
 </details> <!-- End of Drapes Veeestah section !-->
+
+#### Drapes Veeestah Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Veeestah Beta section</b></p></summary>
+
+> [:octocat: `Drapes Veeestah Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_Veeestah_Beta/)
+
+A parody of the Windows Vista Beta (Windows Longhorn) Part of the Drapes spoof operating system family.
+
+It is spelled with 3 e's, not 2 or 1. The number of e's do not correlate to any acronym. The system will be relatively unstable, but not as much as Drapes ME. In the final variant, a red screen of death will be present.
+
+</details> <!-- End of Drapes Veeestah Beta section !-->
 
 #### Drapes CE-ME-NT
 
@@ -316,6 +350,18 @@ A parody of Windows Server 2003. Part of the Drapes spoof operating system famil
 The first major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2003.
 
 </details> <!-- End of Drapes Server 2003 section !-->
+
+#### Drapes Server 2003 Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2003 Beta section</b></p></summary>
+
+> [:octocat: `Drapes Server 2003 Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003_Beta/)
+
+A parody of the Windows Server 2003 Beta. Part of the Drapes spoof operating system family.
+
+The first major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2003.
+
+</details> <!-- End of Drapes Server 2003 Beta section !-->
 
 #### Drapes Server 2003 R2
 
@@ -494,6 +540,13 @@ A parody of Windows 12, placeholder for the future, as Windows 12 does not exist
 </details> <!-- End of Drapes 12.x Section !-->
 
 ---
+
+#### Miscellaneous ideas for Drapes
+
+- My computer
+- This PC
+- OUR computer
+- OUR PC
 
 End of Drapes section. Time to close the drapes.
 
@@ -1046,12 +1099,12 @@ Different versions of MS office software
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `13 (2025, Wednesday, April 30th at 05:52 pm PST)`
-- **Line count (including blank lines and compiler line):** `01,395`
-- **Word count:** `07,082`
-- **Character count (with spaces):** `045,604 characters`
-- **Character count (without spaces)** `39,116 characters`
-- **File size (in bytes)** `45,629 characters`
+- **File version:** `14 (2025, Thursday, May 1st at 06:36 pm PST)`
+- **Line count (including blank lines and compiler line):** `01,471`
+- **Word count:** `07,543`
+- **Character count (with spaces):** `048,550 characters`
+- **Character count (without spaces)** `41,605 characters`
+- **File size (in bytes)** `48,575 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1368,6 +1421,29 @@ History of this file.
 - [ ] No other changes in version 13
 
 </details> <!-- End of V13 !-->
+
+---
+
+<details open><summary><H2>Version 14 (2025, Thursday, May 1st at 06:36 pm PST)</H2></summary>
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the fourteenth version of the file, with some small changes._
+
+> Changes
+
+- [x] Updated the Products section
+- - [x] Added the SoftMicro: Drapes ME Beta subsection
+- - [x] Added the SoftMicro: Drapes XD Beta subsection
+- - [x] Added the SoftMicro: Drapes Veeestah Beta subsection
+- - [x] Added the SoftMicro: Drapes Server 2003 Beta subsection
+- - [x] Added the SoftMicro: Miscellaneous ideas for Drapes subsection
+- [x] Updated the File info section
+- [x] Updated the File history section
+- - [x] Added an entry for version 14
+- [ ] No other changes in version 14
+
+</details> <!-- End of V14 !-->
 
 ---
 
