@@ -2,10 +2,10 @@
 //// SoftMicro_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SoftMicro project repositories by @seanpm2001
-//// As of 2025, Wednesday, April 30th
+//// As of 2025, Thursday, May 1st
 
 //// ----------------------------------------------------- \\\\
-//// SoftMicro Project (106)
+//// SoftMicro Project (114)
 //// ----------------------------------------------------- \\\\
 
 //// SoftMicro Core (1)
@@ -111,6 +111,11 @@ https://github.com/seanpm2001/SoftMicro_Drapes_98_Beta_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_ME
 https://github.com/seanpm2001/SoftMicro_Drapes_ME_Docs
 
+//// SoftMicro Drapes ME (Mistake Edition) Beta (2)
+
+https://github.com/seanpm2001/Drapes_ME_Beta
+https://github.com/seanpm2001/Drapes_ME_Beta_Docs
+
 //// SoftMicro Drapes 2000 (2)
 
 https://github.com/seanpm2001/SoftMicro_Drapes_2000
@@ -136,10 +141,20 @@ https://github.com/seanpm2001/SoftMicro_Drapes_3000_Beta_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_XD
 https://github.com/seanpm2001/SoftMicro_Drapes_XD_Docs
 
+//// SoftMicro Drapes XD Beta (2)
+
+https://github.com/seanpm2001/Drapes_XD_Beta
+https://github.com/seanpm2001/Drapes_XD_Beta_Docs
+
 //// SoftMicro Drapes Veeestah (2)
 
 https://github.com/seanpm2001/SoftMicro_Drapes_Veeestah
 https://github.com/seanpm2001/SoftMicro_Drapes_Veeestah_Docs
+
+//// SoftMicro Drapes Veeestah Beta (2)
+
+https://github.com/seanpm2001/Drapes_Veeesta_Beta
+https://github.com/seanpm2001/Drapes_Veeesta_Beta_Docs
 
 //// SoftMicro Drapes CE-ME-NT (2)
 
@@ -151,7 +166,13 @@ https://github.com/seanpm2001/SoftMicro_Drapes_CE-ME-NT_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003_Docs
 
+//// SoftMicro Drapes Server 2003 Beta (2)
+
+https://github.com/seanpm2001/Drapes_Server_2003_Beta
+https://github.com/seanpm2001/Drapes_Server_2003_Beta_Docs
+
 //// SoftMicro Drapes Server 2003 R2 (2)
+
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003_R2
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003_R2_Docs
 
@@ -276,8 +297,8 @@ https://github.com/seanpm2001/SoftMicro_Edgy
 https://github.com/seanpm2001/SoftMicro_Edgy_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (SoftMicro): 106
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=106
+//// Repo count (SoftMicro): 114
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=114
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -307,15 +328,15 @@ https://github.com/seanpm2001/Android-x128/
 //// Repo count (See also): 5
 //// 1+1+1+1+1=5
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 111
-//// 106+5=111
+//// Total repo count: 119
+//// 114+5=119
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 13 (2025, Wednesday, April 30th at 05:51 pm PST)
-//// Line count (including blank lines and compiler line): 322
+//// File version: 14 (2025, Thursday, May 1st at 06:32 pm PST)
+//// Line count (including blank lines and compiler line): 343
 //// ----------------------------------------------------- \\\\
 
 //// End of file
