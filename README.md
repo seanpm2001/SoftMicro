@@ -375,6 +375,18 @@ A variant of the first major server variant of Drapes (besides Drapes 2000) it w
 
 </details> <!-- End of Drapes Server 2003 R2 section !-->
 
+#### Drapes Server 2003 R2 Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2003 R2 Beta section</b></p></summary>
+
+> [:octocat: `Drapes Server 2003 R2 Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003_R2_Beta/)
+
+A parody of the Windows Server 2003 R2 Beta. Part of the Drapes spoof operating system family.
+
+A variant of the first major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2003.
+
+</details> <!-- End of Drapes Server 2003 Beta section !-->
+
 #### Drapes Server 2008
 
 <details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2008 section</b></p></summary>
@@ -387,17 +399,41 @@ The second major server variant of Drapes (besides Drapes 2000) it will contain 
 
 </details> <!-- End of Drapes Server 2008 Section !-->
 
-#### Drapes Server 2003 R2
+#### Drapes Server 2008 Beta
 
-<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2003 section</b></p></summary>
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2008 Beta section</b></p></summary>
+
+> [:octocat: `Drapes Server 2008 Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2008_Beta/)
+
+A parody of the Windows Server 2008 Beta. Part of the Drapes spoof operating system family.
+
+The second major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2008.
+
+</details> <!-- End of Drapes Server 2008 Beta Section !-->
+
+#### Drapes Server 2008 R2
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2008 R2 section</b></p></summary>
 
 > [:octocat: `Drapes Server 2008 R2`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2008_R2/)
 
-A parody of Windows Server 20038R2. Part of the Drapes spoof operating system family.
+A parody of Windows Server 2008 R2. Part of the Drapes spoof operating system family.
 
 A variant of the second major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2008 R2.
 
 </details> <!-- End of Drapes Server 2008 R2 section !-->
+
+#### Drapes Server 2008 R2 Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2008 R2 Beta section</b></p></summary>
+
+> [:octocat: `Drapes Server 2008 R2 Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2008_R2_Beta/)
+
+A parody of the Windows Server 2008 R2 Beta. Part of the Drapes spoof operating system family.
+
+A variant of the second major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2008 R2.
+
+</details> <!-- End of Drapes Server 2008 R2 Beta section !-->
 
 #### Drapes Server 2012
 
@@ -406,6 +442,20 @@ A variant of the second major server variant of Drapes (besides Drapes 2000) it 
 > [:octocat: `Drapes Server 2012`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2012/)
 
 A parody of Windows Server 2012. Part of the Drapes spoof operating system family.
+
+The third major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2012.
+
+Maya Easter Egg: End of world in 2012. A code can be entered that adds an apocalyptic theme.
+
+</details> <!-- End of Drapes Server 2012 Section !-->
+
+#### Drapes Server 2012 Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2012 Beta section</b></p></summary>
+
+> [:octocat: `Drapes Server 2012 Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2012_bETA/)
+
+A parody of the Windows Server 2012 Beta. Part of the Drapes spoof operating system family.
 
 The third major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2012.
 
@@ -1099,12 +1149,12 @@ Different versions of MS office software
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `14 (2025, Thursday, May 1st at 06:36 pm PST)`
-- **Line count (including blank lines and compiler line):** `01,471`
-- **Word count:** `07,543`
-- **Character count (with spaces):** `048,550 characters`
-- **Character count (without spaces)** `41,605 characters`
-- **File size (in bytes)** `48,575 characters`
+- **File version:** `15 (2025, Friday, May 2nd at 06:11 pm PST)`
+- **Line count (including blank lines and compiler line):** `01,543`
+- **Word count:** `08,030`
+- **Character count (with spaces):** `051,655 characters`
+- **Character count (without spaces)** `44,237 characters`
+- **File size (in bytes)** `51,680 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1444,6 +1494,28 @@ History of this file.
 - [ ] No other changes in version 14
 
 </details> <!-- End of V14 !-->
+
+---
+
+<details open><summary><H2>Version 15 (2025, Friday, May 2nd at 06:11 pm PST)</H2></summary>
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the fifteenth version of the file, with some small changes._
+
+> Changes
+
+- [x] Updated the Products section
+- - [x] Added the SoftMicro: Drapes Server 2003 R2 Beta subsection
+- - [x] Added the SoftMicro: Drapes Server 2008 Beta subsection
+- - [x] Added the SoftMicro: Drapes Server 2008 R2 Beta subsection
+- - [x] Added the SoftMicro: Drapes Server 2012 Beta subsection
+- [x] Updated the File info section
+- [x] Updated the File history section
+- - [x] Added an entry for version 15
+- [ ] No other changes in version 15
+
+</details> <!-- End of V15 !-->
 
 ---
 
