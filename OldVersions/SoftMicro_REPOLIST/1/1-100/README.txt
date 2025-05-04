@@ -2,10 +2,10 @@
 //// SoftMicro_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SoftMicro project repositories by @seanpm2001
-//// As of 2025, Friday, May 2nd
+//// As of 2025, Saturday, May 3rd
 
 //// ----------------------------------------------------- \\\\
-//// SoftMicro Project (122)
+//// SoftMicro Project (132)
 //// ----------------------------------------------------- \\\\
 
 //// SoftMicro Core (1)
@@ -216,25 +216,50 @@ https://github.com/seanpm2001/Drapes_Server_2012_Beta_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2016
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2016_Docs
 
+//// SoftMicro Drapes Server 2016 Beta (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2016_Beta
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2016_Beta_Docs
+
 //// SoftMicro Drapes Server 2019 (2)
 
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2019
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2019_Docs
+
+//// SoftMicro Drapes Server 2019 Beta (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2019_Beta
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2019_Beta_Docs
 
 //// SoftMicro Drapes Server 2022 (2)
 
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2022
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2022_Docs
 
+//// SoftMicro Drapes Server 2022 Beta (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2022_Beta
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2022_Beta_Docs
+
 //// SoftMicro Drapes Server 2025 (2)
 
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2025
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2025_Docs
 
+//// SoftMicro Drapes Server 2025 Beta (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2025_Beta
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2025_Beta_Docs
+
 //// SoftMicro Drapes 7.x (2)
 
 https://github.com/seanpm2001/SoftMicro_Drapes_7x
 https://github.com/seanpm2001/SoftMicro_Drapes_7x_Docs
+
+//// SoftMicro Drapesx 7.x Beta (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_7.x_Beta
+https://github.com/seanpm2001/SoftMicro_Drapes_7.x_Beta_Docs
 
 //// SoftMicro Drapes 8.x (2)
 
@@ -317,8 +342,8 @@ https://github.com/seanpm2001/SoftMicro_Edgy
 https://github.com/seanpm2001/SoftMicro_Edgy_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (SoftMicro): 122
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=122
+//// Repo count (SoftMicro): 132
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=132
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -348,15 +373,15 @@ https://github.com/seanpm2001/Android-x128/
 //// Repo count (See also): 5
 //// 1+1+1+1+1=5
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 119
-//// 114+5=119
+//// Total repo count: 137
+//// 132+5=137
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 15 (2025, Friday, May 2nd at 06:10 pm PST)
-//// Line count (including blank lines and compiler line): 363
+//// File version: 16 (2025, Saturday, May 3rd at 06:06 pm PST)
+//// Line count (including blank lines and compiler line): 388
 //// ----------------------------------------------------- \\\\
 
 //// End of file
