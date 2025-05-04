@@ -475,6 +475,18 @@ The fourth major server variant of Drapes (besides Drapes 2000) it will contain 
 
 </details> <!-- End of Drapes Server 2012 Section !-->
 
+#### Drapes Server 2016 Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2016 Beta section</b></p></summary>
+
+> [:octocat: `Drapes Server 2016 Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2016_Beta/)
+
+A parody of the Windows Server 2016 Beta. Part of the Drapes spoof operating system family.
+
+The fourth major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2016.
+
+</details> <!-- End of Drapes Server 2016 Beta Section !-->
+
 #### Drapes Server 2019
 
 <details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2019 section</b></p></summary>
@@ -486,6 +498,18 @@ A parody of Windows Server 2019. Part of the Drapes spoof operating system famil
 The fifth major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2019.
 
 </details> <!-- End of Drapes Server 2019 Section !-->
+
+#### Drapes Server 2019 Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2019 Beta section</b></p></summary>
+
+> [:octocat: `Drapes Server 2019 Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2019_Beta/)
+
+A parody of the Windows Server 2019 Beta. Part of the Drapes spoof operating system family.
+
+The fifth major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2019.
+
+</details> <!-- End of Drapes Server 2019 Beta Section !-->
 
 #### Drapes Server 2022
 
@@ -499,6 +523,18 @@ The sixth major server variant of Drapes (besides Drapes 2000) it will contain s
 
 </details> <!-- End of Drapes Server 2022 Section !-->
 
+#### Drapes Server 2022 Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2022 Beta section</b></p></summary>
+
+> [:octocat: `Drapes Server 2022 Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2022_Beta/)
+
+A parody of the Windows Server 2022 Beta. Part of the Drapes spoof operating system family.
+
+The sixth major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2022.
+
+</details> <!-- End of Drapes Server 2022 Beta Section !-->
+
 #### Drapes Server 2025
 
 <details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2025 section</b></p></summary>
@@ -511,11 +547,23 @@ The seventh major server variant of Drapes (besides Drapes 2000) it will contain
 
 </details> <!-- End of Drapes Server 2025 Section !-->
 
+#### Drapes Server 2025 Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2025 Beta section</b></p></summary>
+
+> [:octocat: `Drapes Server 2025 Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2025_Beta/)
+
+A parody of the Windows Server 2025 Beta. Part of the Drapes spoof operating system family.
+
+The seventh major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2025.
+
+</details> <!-- End of Drapes Server 2025 Beta Section !-->
+
 #### Drapes 7.x
 
 <details open><summary><p><b>Click/tap here to expand/collapse the Drapes 7.x section</b></p></summary>
 
-> [:octocat: `Drapes 7x`](https://github.com/seanpm2001/SoftMicro_Drapes_8x/)
+> [:octocat: `Drapes 7x`](https://github.com/seanpm2001/SoftMicro_Drapes_7x/)
 
 A parody of Windows 7. Part of the Drapes spoof operating system family.
 
@@ -525,6 +573,16 @@ FIX NEEDED
 - SoftMicro_Drapes_Server_7x_Docs -> SoftMicro_Drapes_7x_Docs
 
 </details> <!-- End of Drapes 7.x Section !-->
+
+#### Drapes 7.x Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 7.x Beta section</b></p></summary>
+
+> [:octocat: `Drapes 7x Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_7.x_Beta/)
+
+A parody of the Windows 7 Beta (Windows Blackcomb) Part of the Drapes spoof operating system family.
+
+</details> <!-- End of Drapes 7.x Beta Section !-->
 
 #### Drapes 8.x
 
@@ -597,6 +655,10 @@ A parody of Windows 12, placeholder for the future, as Windows 12 does not exist
 - This PC
 - OUR computer
 - OUR PC
+- `DRAPES_XD_BETA` REPOSITORY NAME IS NOT PREFIXED WITH `SOFTMICRO_`
+- `DRAPES_XD_BETA_DOCS` REPOSITORY NAME IS NOT PREFIXED WITH `SOFTMICRO_`
+- `DRAPES_SERVER_2003` REPOSITORY NAME IS NOT PREFIXED WITH `SOFTMICRO_`
+- `DRAPES_SERVER_2003_DOCS` REPOSITORY NAME IS NOT PREFIXED WITH `SOFTMICRO_`
 
 End of Drapes section. Time to close the drapes.
 
@@ -1149,12 +1211,12 @@ Different versions of MS office software
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `15 (2025, Friday, May 2nd at 06:11 pm PST)`
-- **Line count (including blank lines and compiler line):** `01,543`
-- **Word count:** `08,030`
-- **Character count (with spaces):** `051,655 characters`
-- **Character count (without spaces)** `44,237 characters`
-- **File size (in bytes)** `51,680 characters`
+- **File version:** `16 (2025, Saturday, May 3rd at 06:08 pm PST)`
+- **Line count (including blank lines and compiler line):** `01,628`
+- **Word count:** `08,591`
+- **Character count (with spaces):** `055,334 characters`
+- **Character count (without spaces)** `47,385 characters`
+- **File size (in bytes)** `55,359 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1516,6 +1578,29 @@ History of this file.
 - [ ] No other changes in version 15
 
 </details> <!-- End of V15 !-->
+
+---
+
+<details open><summary><H2>Version 16 (2025, Saturday, May 3rd at 06:08 pm PST)</H2></summary>
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the sixteenth version of the file, with some small changes._
+
+> Changes
+
+- [x] Updated the Products section
+- - [x] Added the SoftMicro: Drapes Server 2016 Beta subsection
+- - [x] Added the SoftMicro: Drapes Server 2019 Beta subsection
+- - [x] Added the SoftMicro: Drapes Server 2022 Beta subsection
+- - [x] Added the SoftMicro: Drapes Server 2025 Beta subsection
+- - [x] Added the SoftMicro: Drapes 7.x Beta subsection
+- [x] Updated the File info section
+- [x] Updated the File history section
+- - [x] Added an entry for version 16
+- [ ] No other changes in version 16
+
+</details> <!-- End of V16 !-->
 
 ---
 
