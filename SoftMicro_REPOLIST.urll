@@ -2,10 +2,10 @@
 //// SoftMicro_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SoftMicro project repositories by @seanpm2001
-//// As of 2025, Saturday, May 3rd
+//// As of 2025, Sunday, May 4th
 
 //// ----------------------------------------------------- \\\\
-//// SoftMicro Project (132)
+//// SoftMicro Project (142)
 //// ----------------------------------------------------- \\\\
 
 //// SoftMicro Core (1)
@@ -266,25 +266,50 @@ https://github.com/seanpm2001/SoftMicro_Drapes_7.x_Beta_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_8x
 https://github.com/seanpm2001/SoftMicro_Drapes_8x_Docs
 
+//// SoftMicro Drapesx 8.x Beta (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_8.x_Beta
+https://github.com/seanpm2001/SoftMicro_Drapes_8.x_Beta_Docs
+
 //// SoftMicro Drapes 9.x (2)
 
 https://github.com/seanpm2001/SoftMicro_Drapes_9x
 https://github.com/seanpm2001/SoftMicro_Drapes_9x_Docs
+
+//// SoftMicro Drapesx 9.x Beta (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_9.x_Beta
+https://github.com/seanpm2001/SoftMicro_Drapes_9.x_Beta_Docs
 
 //// SoftMicro Drapes 10.x (2)
 
 https://github.com/seanpm2001/SoftMicro_Drapes_10x
 https://github.com/seanpm2001/SoftMicro_Drapes_10x_Docs
 
+//// SoftMicro Drapesx 10.x Beta (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_10.x_Beta
+https://github.com/seanpm2001/SoftMicro_Drapes_10.x_Beta_Docs
+
 //// SoftMicro Drapes 11.x (2)
 
 https://github.com/seanpm2001/SoftMicro_Drapes_11x
 https://github.com/seanpm2001/SoftMicro_Drapes_11x_Docs
 
+//// SoftMicro Drapesx 11.x Beta (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_11.x_Beta
+https://github.com/seanpm2001/SoftMicro_Drapes_11.x_Beta_Docs
+
 //// SoftMicro Drapes 12.x (2)
 
 https://github.com/seanpm2001/SoftMicro_Drapes_12x
 https://github.com/seanpm2001/SoftMicro_Drapes_12x_Docs
+
+//// SoftMicro Drapesx 12.x Beta (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_12.x_Beta
+https://github.com/seanpm2001/SoftMicro_Drapes_12.x_Beta_Docs
 
 //// SoftMicro Poverty (2)
 
@@ -342,8 +367,8 @@ https://github.com/seanpm2001/SoftMicro_Edgy
 https://github.com/seanpm2001/SoftMicro_Edgy_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (SoftMicro): 132
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=132
+//// Repo count (SoftMicro): 142
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=142
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -373,15 +398,15 @@ https://github.com/seanpm2001/Android-x128/
 //// Repo count (See also): 5
 //// 1+1+1+1+1=5
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 137
-//// 132+5=137
+//// Total repo count: 147
+//// 142+5=147
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 16 (2025, Saturday, May 3rd at 06:06 pm PST)
-//// Line count (including blank lines and compiler line): 388
+//// File version: 17 (2025, Sunday, May 4th at 06:10 pm PST)
+//// Line count (including blank lines and compiler line): 413
 //// ----------------------------------------------------- \\\\
 
 //// End of file
