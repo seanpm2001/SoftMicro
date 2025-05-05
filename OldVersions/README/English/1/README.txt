@@ -597,7 +597,15 @@ FIX NEEDED
 - SoftMicro_Drapes_Server_8x -> SoftMicro_Drapes_8x
 - SoftMicro_Drapes_Server_8x_Docs -> SoftMicro_Drapes_8x_Docs
 
-</details> <!-- End of Drapes 8.x Section !-->
+#### Drapes 8.x Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 8.x Beta section</b></p></summary>
+
+> [:octocat: `Drapes 8x Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_8.x_Beta/)
+
+A parody of the Windows 8 Beta (Unknown codename) Part of the Drapes spoof operating system family.
+
+</details> <!-- End of Drapes 8.x Beta Section !-->
 
 #### Drapes 9.x
 
@@ -613,6 +621,20 @@ Also known as 'the hidden one' as Microsoft didn't officially create Windows 9, 
 
 </details> <!-- End of Drapes 9.x Section !-->
 
+#### Drapes 9.x Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 9.x Beta section</b></p></summary>
+
+> [:octocat: `Drapes 9x Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_9.x_Beta/)
+
+A parody of the Windows 8.1 beta (Windows Blue) Part of the Drapes spoof operating system family.
+
+Not to be confused with Drapes 9x (Drapes 95, Drapes 98, Drapes ME)
+
+Also known as 'the hidden one' as Microsoft didn't officially create Windows 9, they skipped from Windows 8/8.1 to Windows 10
+
+</details> <!-- End of Drapes 9.x Beta Section !-->
+
 #### Drapes 10.x
 
 <details open><summary><p><b>Click/tap here to expand/collapse the Drapes 10.x section</b></p></summary>
@@ -624,6 +646,18 @@ A parody of Windows 10. Part of the Drapes spoof operating system family.
 Not to be confused with Drapes 1.x
 
 </details> <!-- End of Drapes 10.x Section !-->
+
+#### Drapes 10.x Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 10.x Beta section</b></p></summary>
+
+> [:octocat: `Drapes 10x Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_10.x_Beta/)
+
+A parody of the Windows 10 beta (Windows Threshold) Part of the Drapes spoof operating system family.
+
+Not to be confused with Drapes 1.x
+
+</details> <!-- End of Drapes 10.x Beta Section !-->
 
 #### Drapes 11.x
 
@@ -637,6 +671,18 @@ Not to be confused with Drapes 1.x (Drapes 1.01)
 
 </details> <!-- End of Drapes 11.x Section !-->
 
+#### Drapes 11.x Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 11.x Beta section</b></p></summary>
+
+> [:octocat: `Drapes 11x Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_11.x_Beta/)
+
+A parody of the Windows 11 Beta (Windows Sun Valley) Part of the Drapes spoof operating system family.
+
+Not to be confused with Drapes 1.x (Drapes 1.01)
+
+</details> <!-- End of Drapes 11.x Beta Section !-->
+
 #### Drapes 12.x
 
 <details open><summary><p><b>Click/tap here to expand/collapse the Drapes 12.x section</b></p></summary>
@@ -646,6 +692,16 @@ Not to be confused with Drapes 1.x (Drapes 1.01)
 A parody of Windows 12, placeholder for the future, as Windows 12 does not exist yet. Part of the Drapes spoof operating system family.
 
 </details> <!-- End of Drapes 12.x Section !-->
+
+#### Drapes 12.x Beta
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes 12.x Beta section</b></p></summary>
+
+> [:octocat: `Drapes 12x Beta`](https://github.com/seanpm2001/SoftMicro_Drapes_12.x_Beta/)
+
+A parody of Tthe Windows 12 Beta (Windows Hudson Valley) placeholder for the future, as Windows 12 does not exist yet. Part of the Drapes spoof operating system family.
+
+</details> <!-- End of Drapes 12.x Beta Section !-->
 
 ---
 
@@ -1211,12 +1267,12 @@ Different versions of MS office software
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `16 (2025, Saturday, May 3rd at 06:08 pm PST)`
-- **Line count (including blank lines and compiler line):** `01,628`
-- **Word count:** `08,591`
-- **Character count (with spaces):** `055,334 characters`
-- **Character count (without spaces)** `47,385 characters`
-- **File size (in bytes)** `55,359 characters`
+- **File version:** `17 (2025, Sunday, May 4th at 06:12 pm PST)`
+- **Line count (including blank lines and compiler line):** `01,707`
+- **Word count:** `09,085`
+- **Character count (with spaces):** `058,319 characters`
+- **Character count (without spaces)** `49,925 characters`
+- **File size (in bytes)** `58,344 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1601,6 +1657,29 @@ History of this file.
 - [ ] No other changes in version 16
 
 </details> <!-- End of V16 !-->
+
+---
+
+<details open><summary><H2>Version 17 (2025, Sunday, May 4th at 06:12 pm PST)</H2></summary>
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the seventeenth version of the file, with some small changes._
+
+> Changes
+
+- [x] Updated the Products section
+- - [x] Added the SoftMicro: Drapes 8.x Beta subsection
+- - [x] Added the SoftMicro: Drapes 9.x Beta subsection
+- - [x] Added the SoftMicro: Drapes 10.x Beta subsection
+- - [x] Added the SoftMicro: Drapes 11.x Beta subsection
+- - [x] Added the SoftMicro: Drapes 12.x Beta subsection
+- [x] Updated the File info section
+- [x] Updated the File history section
+- - [x] Added an entry for version 17
+- [ ] No other changes in version 17
+
+</details> <!-- End of V17 !-->
 
 ---
 
