@@ -57,28 +57,29 @@
 - - [01.01.32 - Drapes Server 2008 R2](#Drapes-Server-2008-R2)
 - - [01.01.33 - Drapes Server 2008 R2 Beta](#Drapes-Server-2008-R2-Beta)
 - - [01.01.34 - Drapes Server 2012](#Drapes-Server-2012)
-- - [01.01.35 - Drapes Server 2012 Beta](#Drapes-Server-2012-Beta)
-- - [01.01.36 - Drapes Server 2016](#Drapes-Server-2016)
-- - [01.01.37 - Drapes Server 2016 Beta](#Drapes-Server-2016-Beta)
-- - [01.01.38 - Drapes Server 2019](#Drapes-Server-2019)
-- - [01.01.39 - Drapes Server 2019 Beta](#Drapes-Server-2019-Beta)
-- - [01.01.40 - Drapes Server 2022](#Drapes-Server-2022)
-- - [01.01.41 - Drapes Server 2022 Beta](#Drapes-Server-2022-Beta)
-- - [01.01.42 - Drapes Server 2025](#Drapes-Server-2025)
-- - [01.01.43 - Drapes Server 2025 Beta](#Drapes-Server-2025-Beta)
-- - [01.01.44 - Drapes 7.x](#Drapes-7-x)
-- - [01.01.45 - Drapes 7.x Beta](#Drapes-7-x-Beta)
-- - [01.01.46 - Drapes 8.x](#Drapes-8-x)
-- - [01.01.47 - Drapes 8.x Beta](#Drapes-8-x-Beta)
-- - [01.01.48 - Drapes 9.x](#Drapes-9-x)
-- - [01.01.49 - Drapes 9.x Beta](#Drapes-9-x-Beta)
-- - [01.01.50 - Drapes 10.x](#Drapes-10-x)
-- - [01.01.51 - Drapes 10.x Beta](#Drapes-10-x-Beta)
-- - [01.01.52 - Drapes 11.x](#Drapes-11-x)
-- - [01.01.53 - Drapes 11.x Beta](#Drapes-11-x-Beta)
-- - [01.01.54 - Drapes 12.x](#Drapes-12-x)
-- - [01.01.55 - Drapes 12.x Beta](#Drapes-12-x-Beta)
-- - [01.01.56 - Miscellaneous ideas for Drapes](#Miscellaneous-ideas-for-Drapes)
+- - [01.01.35 - Drapes Server 2012](#Drapes-Server-2012-R2)
+- - [01.01.36 - Drapes Server 2012 Beta](#Drapes-Server-2012-Beta)
+- - [01.01.37 - Drapes Server 2016](#Drapes-Server-2016)
+- - [01.01.38 - Drapes Server 2016 Beta](#Drapes-Server-2016-Beta)
+- - [01.01.39 - Drapes Server 2019](#Drapes-Server-2019)
+- - [01.01.40 - Drapes Server 2019 Beta](#Drapes-Server-2019-Beta)
+- - [01.01.41 - Drapes Server 2022](#Drapes-Server-2022)
+- - [01.01.42 - Drapes Server 2022 Beta](#Drapes-Server-2022-Beta)
+- - [01.01.43 - Drapes Server 2025](#Drapes-Server-2025)
+- - [01.01.44 - Drapes Server 2025 Beta](#Drapes-Server-2025-Beta)
+- - [01.01.45 - Drapes 7.x](#Drapes-7-x)
+- - [01.01.46 - Drapes 7.x Beta](#Drapes-7-x-Beta)
+- - [01.01.47 - Drapes 8.x](#Drapes-8-x)
+- - [01.01.48 - Drapes 8.x Beta](#Drapes-8-x-Beta)
+- - [01.01.49 - Drapes 9.x](#Drapes-9-x)
+- - [01.01.50 - Drapes 9.x Beta](#Drapes-9-x-Beta)
+- - [01.01.51 - Drapes 10.x](#Drapes-10-x)
+- - [01.01.52 - Drapes 10.x Beta](#Drapes-10-x-Beta)
+- - [01.01.53 - Drapes 11.x](#Drapes-11-x)
+- - [01.01.54 - Drapes 11.x Beta](#Drapes-11-x-Beta)
+- - [01.01.55 - Drapes 12.x](#Drapes-12-x)
+- - [01.01.56 - Drapes 12.x Beta](#Drapes-12-x-Beta)
+- - [01.01.57 - Miscellaneous ideas for Drapes](#Miscellaneous-ideas-for-Drapes)
 - - [01.02.1 - SoftMicro Poverty](#SoftMicro-Poverty)
 - - [01.03.1 - SoftMicro The Office](#SoftMicro-The-Office)
 - - [01.03.2 - SoftMicro The Office: PointPower](#SoftMicro-The-Office-PointPower)
@@ -654,6 +655,18 @@ Maya Easter Egg: End of world in 2012. A code can be entered that adds an apocal
 
 </details> <!-- End of Drapes Server 2012 Section !-->
 
+#### Drapes Server 2012 R2
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2012 section</b></p></summary>
+
+> [:octocat: `Drapes Server 2012 R2`](https://github.com/seanpm2001/SoftMicro_Drapes_Server_2012_R2/)
+
+A parody of Windows Server 2012 R2. Part of the Drapes spoof operating system family.
+
+The third major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2012 R2.
+
+</details> <!-- End of Drapes Server 2012 Section !-->
+
 #### Drapes Server 2012 Beta
 
 <details open><summary><p><b>Click/tap here to expand/collapse the Drapes Server 2012 Beta section</b></p></summary>
@@ -678,7 +691,7 @@ A parody of Windows Server 2016. Part of the Drapes spoof operating system famil
 
 The fourth major server variant of Drapes (besides Drapes 2000) it will contain spoofs of the networking features of Windows Server 2016.
 
-</details> <!-- End of Drapes Server 2012 Section !-->
+</details> <!-- End of Drapes Server 2016 Section !-->
 
 #### Drapes Server 2016 Beta
 
@@ -1484,12 +1497,12 @@ Common tags for this project.
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `18 (2025, Saturday, May 10th at 07:05 pm PST)`
-- **Line count (including blank lines and compiler line):** `01,945`
-- **Word count:** `12,518`
-- **Character count (with spaces):** `080,680 characters`
-- **Character count (without spaces)** `069,557 characters`
-- **File size (in bytes)** `58,344 characters`
+- **File version:** `19 (2025, Saturday, May 24th at 06:34 pm PST)`
+- **Line count (including blank lines and compiler line):** `01,977`
+- **Word count:** `12,696`
+- **Character count (with spaces):** `081,828 characters`
+- **Character count (without spaces)** `070,526 characters`
+- **File size (in bytes)** `82,557 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -1918,6 +1931,25 @@ History of this file.
 - [ ] No other changes in version 18
 
 </details> <!-- End of V18 !-->
+
+---
+
+<details open><summary><H2>Version 19 (2025, Saturday, May 24th at 06:34 pm PST)</H2></summary>
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the nineteenth version of the file, with some small changes._
+
+> Changes
+
+- [x] Updated the Table of Contents section
+- [x] Added the Drapes Server 2012 R2 section
+- [x] Updated the File info section
+- [x] Updated the File history section
+- - [x] Added an entry for version 19
+- [ ] No other changes in version 19
+
+</details> <!-- End of V19 !-->
 
 ---
 
