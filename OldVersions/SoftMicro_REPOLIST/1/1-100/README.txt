@@ -2,10 +2,10 @@
 //// SoftMicro_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all SoftMicro project repositories by @seanpm2001
-//// As of 2025, Sunday, May 4th
+//// As of 2025, Saturday, May 24th
 
 //// ----------------------------------------------------- \\\\
-//// SoftMicro Project (142)
+//// SoftMicro Project (152)
 //// ----------------------------------------------------- \\\\
 
 //// SoftMicro Core (1)
@@ -141,10 +141,12 @@ https://github.com/seanpm2001/SoftMicro_Drapes_3000_Beta_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_XD
 https://github.com/seanpm2001/SoftMicro_Drapes_XD_Docs
 
-//// SoftMicro Drapes XD Beta (2)
+//// SoftMicro Drapes XD Beta (4)
 
 https://github.com/seanpm2001/Drapes_XD_Beta
 https://github.com/seanpm2001/Drapes_XD_Beta_Docs
+https://github.com/seanpm2001/SoftMicro_Drapes_XD_Beta
+https://github.com/seanpm2001/SoftMicro_Drapes_XD_Beta_Docs
 
 //// SoftMicro Drapes Veeestah (2)
 
@@ -166,10 +168,12 @@ https://github.com/seanpm2001/SoftMicro_Drapes_CE-ME-NT_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003_Docs
 
-//// SoftMicro Drapes Server 2003 Beta (2)
+//// SoftMicro Drapes Server 2003 Beta (4)
 
 https://github.com/seanpm2001/Drapes_Server_2003_Beta
 https://github.com/seanpm2001/Drapes_Server_2003_Beta_Docs
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003_Beta
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003_Beta_Docs
 
 //// SoftMicro Drapes Server 2003 R2 (2)
 
@@ -211,6 +215,12 @@ https://github.com/seanpm2001/SoftMicro_Drapes_Server_2012_Docs
 https://github.com/seanpm2001/Drapes_Server_2012_Beta
 https://github.com/seanpm2001/Drapes_Server_2012_Beta_Docs
 
+
+//// SoftMicro Drapes Server 2012 R2 (2)
+
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2012_R2
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2012_R2_Docs
+
 //// SoftMicro Drapes Server 2016 (2)
 
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2016
@@ -251,8 +261,10 @@ https://github.com/seanpm2001/SoftMicro_Drapes_Server_2025_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2025_Beta
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2025_Beta_Docs
 
-//// SoftMicro Drapes 7.x (2)
+//// SoftMicro Drapes 7.x (4)
 
+https://github.com/seanpm2001/Drapes_7x
+https://github.com/seanpm2001/Drapes_7x_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_7x
 https://github.com/seanpm2001/SoftMicro_Drapes_7x_Docs
 
@@ -261,8 +273,10 @@ https://github.com/seanpm2001/SoftMicro_Drapes_7x_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_7.x_Beta
 https://github.com/seanpm2001/SoftMicro_Drapes_7.x_Beta_Docs
 
-//// SoftMicro Drapes 8.x (2)
+//// SoftMicro Drapes 8.x (4)
 
+https://github.com/seanpm2001/Drapes_8x
+https://github.com/seanpm2001/Drapes_8x_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_8x
 https://github.com/seanpm2001/SoftMicro_Drapes_8x_Docs
 
@@ -367,8 +381,8 @@ https://github.com/seanpm2001/SoftMicro_Edgy
 https://github.com/seanpm2001/SoftMicro_Edgy_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (SoftMicro): 142
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=142
+//// Repo count (SoftMicro): 152
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+4+4+4+4+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=142
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -398,15 +412,15 @@ https://github.com/seanpm2001/Android-x128/
 //// Repo count (See also): 5
 //// 1+1+1+1+1=5
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 147
-//// 142+5=147
+//// Total repo count: 157
+//// 152+5=157
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 17 (2025, Sunday, May 4th at 06:10 pm PST)
-//// Line count (including blank lines and compiler line): 413
+//// File version: 18 (2025, Saturday, May 24th at 06:35 pm PST)
+//// Line count (including blank lines and compiler line): 427
 //// ----------------------------------------------------- \\\\
 
 //// End of file
